@@ -1,0 +1,45 @@
+name: Weekly scrape
+
+on:
+  schedule:
+    - cron: "17 6 * * 1"   # Mondays 06:17 UTC — she answers in bursts; weekly is plenty
+  workflow_dispatch: {}     # allow manual runs from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r scraper/requirements.txt
+
+      # scrape.py exits non-zero if the scrape looks partial (fewer questions
+      # than the committed data), so a bad run fails here instead of committing.
+      - name: Scrape Goodreads
+        run: python scraper/scrape.py
+
+      - name: Auto-tag new questions
+        run: python scraper/autotag.py
+
+      - name: Re-estimate answer dates
+        run: python scraper/infer_dates.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Weekly scrape: $(date -u +%Y-%m-%d)"
+            git push
+          fi

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lois McMaster Bujold Ask the Author archive</title>
+<meta name="description" content="A searchable archive of Lois McMaster Bujold's Goodreads Ask the Author answers.">
+<link rel="stylesheet" href="assets/style.css">
+<script src="https://cdn.jsdelivr.net/npm/minisearch@7.1.2/dist/umd/index.min.js"></script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wrap">
+    <h1>Ask the Author: Lois McMaster Bujold</h1>
+    <p class="tagline">A searchable archive of Lois McMaster Bujold's Goodreads <a href="https://www.goodreads.com/author/16094.Lois_McMaster_Bujold/questions">Ask the Author</a> answers.</p>
+    <p class="meta" id="archive-meta"></p>
+  </div>
+  <div class="gods-stripe" title="The Daughter, the Mother, the Son, the Father… and the Bastard"></div>
+</header>
+
+<main class="wrap">
+  <div class="controls">
+    <input id="search" type="search" placeholder="Search questions, answers, and comments" autocomplete="off" autofocus>
+    <label class="sort-label">Sort
+      <select id="sort">
+        <option value="relevance">Relevance</option>
+        <option value="newest" selected>Newest</option>
+        <option value="oldest">Oldest</option>
+        <option value="likes">Most liked</option>
+      </select>
+    </label>
+    <label class="check-label"><input type="checkbox" id="show-spoilers"> Show spoilers</label>
+  </div>
+
+  <div class="filter-row">
+    <button id="tag-toggle" class="tag-toggle" hidden>Filter by tag ▾</button>
+  </div>
+  <div id="tag-panel" class="tag-panel" hidden>
+    <div id="tag-groups"></div>
+  </div>
+
+  <p id="result-count" class="result-count"></p>
+  <div id="results"></div>
+  <button id="more" class="more-btn" hidden>Show more</button>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <p>An unofficial fan archive by Allison Strandberg (<a href="https://github.com/allison-strandberg">Github</a>). All answers are by Lois McMaster Bujold.</p>
+    <p>New tag suggestion? Found a bug? Email <a id="contact-link">(enable JavaScript for address)</a>. This is a personal project so replies will be slow <3</p>
+  </div>
+</footer>
+
+<script src="assets/app.js"></script>
+</body>
+</html>

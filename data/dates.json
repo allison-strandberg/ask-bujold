@@ -1,0 +1,7782 @@
+{
+"1001555": {
+"est": "2017-03-07",
+"precision_days": 3,
+"source": "comment"
+},
+"1006974": {
+"est": "2017-03-09",
+"precision_days": 365,
+"source": "page"
+},
+"1007029": {
+"est": "2017-03-09",
+"precision_days": 3,
+"source": "comment"
+},
+"1010857": {
+"est": "2017-03-09",
+"precision_days": 3,
+"source": "comment"
+},
+"1011154": {
+"est": "2017-03-12",
+"precision_days": 3,
+"source": "comment"
+},
+"1012578": {
+"est": "2017-03-12",
+"precision_days": 3,
+"source": "comment"
+},
+"1012624": {
+"est": "2017-03-12",
+"precision_days": 3,
+"source": "comment"
+},
+"1012928": {
+"est": "2017-03-12",
+"precision_days": 3,
+"source": "comment"
+},
+"1014275": {
+"est": "2017-03-19",
+"precision_days": 3,
+"source": "comment"
+},
+"1017492": {
+"est": "2017-03-19",
+"precision_days": 3,
+"source": "comment"
+},
+"1020069": {
+"est": "2017-03-22",
+"precision_days": 3,
+"source": "comment"
+},
+"1024676": {
+"est": "2017-03-30",
+"precision_days": 3,
+"source": "comment"
+},
+"1025937": {
+"est": "2017-03-30",
+"precision_days": 3,
+"source": "comment"
+},
+"1025993": {
+"est": "2017-03-30",
+"precision_days": 3,
+"source": "comment"
+},
+"1026958": {
+"est": "2017-03-30",
+"precision_days": 3,
+"source": "comment"
+},
+"1032160": {
+"est": "2017-04-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1034275": {
+"est": "2017-04-12",
+"precision_days": 365,
+"source": "page"
+},
+"1036301": {
+"est": "2017-04-12",
+"precision_days": 3,
+"source": "comment"
+},
+"1044812": {
+"est": "2017-04-19",
+"precision_days": 3,
+"source": "comment"
+},
+"1054545": {
+"est": "2017-04-26",
+"precision_days": 3,
+"source": "comment"
+},
+"1055292": {
+"est": "2017-04-26",
+"precision_days": 365,
+"source": "page"
+},
+"1055458": {
+"est": "2017-04-26",
+"precision_days": 365,
+"source": "page"
+},
+"1055773": {
+"est": "2017-04-26",
+"precision_days": 365,
+"source": "page"
+},
+"1055777": {
+"est": "2017-04-26",
+"precision_days": 365,
+"source": "page"
+},
+"1055874": {
+"est": "2017-04-26",
+"precision_days": 365,
+"source": "page"
+},
+"1055960": {
+"est": "2017-04-26",
+"precision_days": 3,
+"source": "comment"
+},
+"1056265": {
+"est": "2017-04-26",
+"precision_days": 3,
+"source": "comment"
+},
+"1058090": {
+"est": "2017-05-17",
+"precision_days": 365,
+"source": "page"
+},
+"1058959": {
+"est": "2017-05-17",
+"precision_days": 3,
+"source": "comment"
+},
+"1073258": {
+"est": "2017-05-23",
+"precision_days": 3,
+"source": "comment"
+},
+"1076319": {
+"est": "2017-05-18",
+"precision_days": 3,
+"source": "comment"
+},
+"1087910": {
+"est": "2017-05-29",
+"precision_days": 3,
+"source": "comment"
+},
+"1090809": {
+"est": "2017-06-07",
+"precision_days": 365,
+"source": "page"
+},
+"1094333": {
+"est": "2017-06-07",
+"precision_days": 3,
+"source": "comment"
+},
+"1094481": {
+"est": "2017-06-07",
+"precision_days": 3,
+"source": "comment"
+},
+"1103575": {
+"est": "2017-06-20",
+"precision_days": 3,
+"source": "comment"
+},
+"1108061": {
+"est": "2017-06-27",
+"precision_days": 3,
+"source": "comment"
+},
+"1108719": {
+"est": "2017-06-27",
+"precision_days": 3,
+"source": "comment"
+},
+"1110164": {
+"est": "2017-06-27",
+"precision_days": 3,
+"source": "comment"
+},
+"1110592": {
+"est": "2017-06-27",
+"precision_days": 3,
+"source": "comment"
+},
+"1110644": {
+"est": "2017-06-27",
+"precision_days": 365,
+"source": "page"
+},
+"1113346": {
+"est": "2017-07-01",
+"precision_days": 3,
+"source": "comment"
+},
+"1114303": {
+"est": "2017-07-03",
+"precision_days": 3,
+"source": "comment"
+},
+"1116262": {
+"est": "2017-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1119106": {
+"est": "2017-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1121186": {
+"est": "2017-07-05",
+"precision_days": 365,
+"source": "page"
+},
+"1121264": {
+"est": "2017-07-05",
+"precision_days": 365,
+"source": "page"
+},
+"1122766": {
+"est": "2017-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1122859": {
+"est": "2017-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1123563": {
+"est": "2017-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1124057": {
+"est": "2017-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1125008": {
+"est": "2017-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1127089": {
+"est": "2017-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1127199": {
+"est": "2017-07-05",
+"precision_days": 365,
+"source": "page"
+},
+"1128514": {
+"est": "2017-07-05",
+"precision_days": 365,
+"source": "page"
+},
+"1128742": {
+"est": "2017-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1133882": {
+"est": "2017-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1139676": {
+"est": "2017-07-05",
+"precision_days": 365,
+"source": "page"
+},
+"1140230": {
+"est": "2017-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1140859": {
+"est": "2017-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1142952": {
+"est": "2017-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1144049": {
+"est": "2017-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1145610": {
+"est": "2017-07-05",
+"precision_days": 365,
+"source": "page"
+},
+"1147011": {
+"est": "2017-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1147585": {
+"est": "2017-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1148301": {
+"est": "2017-07-05",
+"precision_days": 365,
+"source": "page"
+},
+"1149355": {
+"est": "2017-07-05",
+"precision_days": 365,
+"source": "page"
+},
+"1151346": {
+"est": "2017-08-19",
+"precision_days": 3,
+"source": "comment"
+},
+"1152081": {
+"est": "2017-08-19",
+"precision_days": 3,
+"source": "comment"
+},
+"1152464": {
+"est": "2017-08-19",
+"precision_days": 3,
+"source": "comment"
+},
+"1153555": {
+"est": "2017-08-20",
+"precision_days": 3,
+"source": "comment"
+},
+"1157884": {
+"est": "2017-09-01",
+"precision_days": 3,
+"source": "comment"
+},
+"1158123": {
+"est": "2017-09-01",
+"precision_days": 3,
+"source": "comment"
+},
+"1164774": {
+"est": "2017-09-12",
+"precision_days": 3,
+"source": "comment"
+},
+"1168527": {
+"est": "2017-09-12",
+"precision_days": 365,
+"source": "page"
+},
+"1169513": {
+"est": "2017-09-12",
+"precision_days": 3,
+"source": "comment"
+},
+"1169533": {
+"est": "2017-09-13",
+"precision_days": 3,
+"source": "comment"
+},
+"1171469": {
+"est": "2017-09-18",
+"precision_days": 365,
+"source": "page"
+},
+"1172794": {
+"est": "2017-09-18",
+"precision_days": 365,
+"source": "page"
+},
+"1173254": {
+"est": "2017-09-18",
+"precision_days": 3,
+"source": "comment"
+},
+"1175919": {
+"est": "2017-09-22",
+"precision_days": 3,
+"source": "comment"
+},
+"1176863": {
+"est": "2017-09-24",
+"precision_days": 365,
+"source": "page"
+},
+"1177842": {
+"est": "2017-09-24",
+"precision_days": 3,
+"source": "comment"
+},
+"1177925": {
+"est": "2017-09-24",
+"precision_days": 3,
+"source": "comment"
+},
+"1178226": {
+"est": "2017-09-24",
+"precision_days": 3,
+"source": "comment"
+},
+"1178557": {
+"est": "2017-09-25",
+"precision_days": 3,
+"source": "comment"
+},
+"1187186": {
+"est": "2017-10-08",
+"precision_days": 3,
+"source": "comment"
+},
+"1192360": {
+"est": "2017-10-17",
+"precision_days": 3,
+"source": "comment"
+},
+"1195576": {
+"est": "2017-10-17",
+"precision_days": 3,
+"source": "comment"
+},
+"1200557": {
+"est": "2017-10-20",
+"precision_days": 3,
+"source": "comment"
+},
+"1204717": {
+"est": "2017-10-30",
+"precision_days": 365,
+"source": "page"
+},
+"1208063": {
+"est": "2017-10-30",
+"precision_days": 3,
+"source": "comment"
+},
+"1211445": {
+"est": "2017-11-02",
+"precision_days": 3,
+"source": "comment"
+},
+"1211762": {
+"est": "2017-11-10",
+"precision_days": 365,
+"source": "page"
+},
+"1216542": {
+"est": "2017-11-10",
+"precision_days": 365,
+"source": "page"
+},
+"1217163": {
+"est": "2017-11-10",
+"precision_days": 3,
+"source": "comment"
+},
+"1217276": {
+"est": "2017-11-10",
+"precision_days": 3,
+"source": "comment"
+},
+"1218864": {
+"est": "2017-11-11",
+"precision_days": 3,
+"source": "comment"
+},
+"1220904": {
+"est": "2017-11-15",
+"precision_days": 3,
+"source": "comment"
+},
+"1222444": {
+"est": "2017-11-24",
+"precision_days": 365,
+"source": "page"
+},
+"1225847": {
+"est": "2017-11-28",
+"precision_days": 3,
+"source": "comment"
+},
+"1226829": {
+"est": "2017-11-24",
+"precision_days": 365,
+"source": "page"
+},
+"1227560": {
+"est": "2017-11-24",
+"precision_days": 3,
+"source": "comment"
+},
+"1231121": {
+"est": "2017-11-29",
+"precision_days": 3,
+"source": "comment"
+},
+"1231175": {
+"est": "2017-11-29",
+"precision_days": 3,
+"source": "comment"
+},
+"1231494": {
+"est": "2017-11-29",
+"precision_days": 3,
+"source": "comment"
+},
+"1232157": {
+"est": "2017-12-03",
+"precision_days": 365,
+"source": "page"
+},
+"1233486": {
+"est": "2017-12-03",
+"precision_days": 3,
+"source": "comment"
+},
+"1233883": {
+"est": "2017-12-04",
+"precision_days": 3,
+"source": "comment"
+},
+"1234064": {
+"est": "2017-12-04",
+"precision_days": 3,
+"source": "comment"
+},
+"1234067": {
+"est": "2017-12-04",
+"precision_days": 3,
+"source": "comment"
+},
+"1234555": {
+"est": "2017-12-12",
+"precision_days": 3,
+"source": "comment"
+},
+"1237987": {
+"est": "2017-12-12",
+"precision_days": 3,
+"source": "comment"
+},
+"1237990": {
+"est": "2017-12-12",
+"precision_days": 3,
+"source": "comment"
+},
+"1239972": {
+"est": "2017-12-17",
+"precision_days": 3,
+"source": "comment"
+},
+"1242452": {
+"est": "2017-12-18",
+"precision_days": 3,
+"source": "comment"
+},
+"1246591": {
+"est": "2017-12-27",
+"precision_days": 3,
+"source": "comment"
+},
+"1247681": {
+"est": "2017-12-29",
+"precision_days": 365,
+"source": "page"
+},
+"1247944": {
+"est": "2017-12-29",
+"precision_days": 3,
+"source": "comment"
+},
+"1248658": {
+"est": "2017-12-29",
+"precision_days": 365,
+"source": "page"
+},
+"1248982": {
+"est": "2017-12-29",
+"precision_days": 3,
+"source": "comment"
+},
+"1263311": {
+"est": "2018-01-19",
+"precision_days": 365,
+"source": "page"
+},
+"1264243": {
+"est": "2018-01-19",
+"precision_days": 365,
+"source": "page"
+},
+"1265709": {
+"est": "2018-01-19",
+"precision_days": 3,
+"source": "comment"
+},
+"1266362": {
+"est": "2018-01-29",
+"precision_days": 365,
+"source": "page"
+},
+"1272870": {
+"est": "2018-01-29",
+"precision_days": 3,
+"source": "comment"
+},
+"1273079": {
+"est": "2018-01-29",
+"precision_days": 3,
+"source": "comment"
+},
+"1276892": {
+"est": "2018-02-03",
+"precision_days": 3,
+"source": "comment"
+},
+"1289385": {
+"est": "2018-02-20",
+"precision_days": 3,
+"source": "comment"
+},
+"1289598": {
+"est": "2018-02-21",
+"precision_days": 3,
+"source": "comment"
+},
+"1290955": {
+"est": "2018-02-24",
+"precision_days": 3,
+"source": "comment"
+},
+"1291836": {
+"est": "2018-02-24",
+"precision_days": 3,
+"source": "comment"
+},
+"1292450": {
+"est": "2018-02-25",
+"precision_days": 365,
+"source": "page"
+},
+"1292769": {
+"est": "2018-02-25",
+"precision_days": 3,
+"source": "comment"
+},
+"1293377": {
+"est": "2018-02-27",
+"precision_days": 3,
+"source": "comment"
+},
+"1294262": {
+"est": "2018-02-27",
+"precision_days": 3,
+"source": "comment"
+},
+"1294885": {
+"est": "2018-02-28",
+"precision_days": 3,
+"source": "comment"
+},
+"1297492": {
+"est": "2018-03-04",
+"precision_days": 3,
+"source": "comment"
+},
+"1297584": {
+"est": "2018-03-04",
+"precision_days": 3,
+"source": "comment"
+},
+"1298618": {
+"est": "2018-03-08",
+"precision_days": 3,
+"source": "comment"
+},
+"1301437": {
+"est": "2018-03-09",
+"precision_days": 3,
+"source": "comment"
+},
+"1302332": {
+"est": "2018-03-10",
+"precision_days": 3,
+"source": "comment"
+},
+"1302763": {
+"est": "2018-03-11",
+"precision_days": 365,
+"source": "page"
+},
+"1303024": {
+"est": "2018-03-11",
+"precision_days": 3,
+"source": "comment"
+},
+"1312906": {
+"est": "2018-03-25",
+"precision_days": 3,
+"source": "comment"
+},
+"1314699": {
+"est": "2018-03-29",
+"precision_days": 3,
+"source": "comment"
+},
+"1318425": {
+"est": "2018-04-03",
+"precision_days": 3,
+"source": "comment"
+},
+"1319838": {
+"est": "2018-04-04",
+"precision_days": 3,
+"source": "comment"
+},
+"1322407": {
+"est": "2018-04-13",
+"precision_days": 365,
+"source": "page"
+},
+"1325540": {
+"est": "2018-04-13",
+"precision_days": 365,
+"source": "page"
+},
+"1326290": {
+"est": "2018-04-13",
+"precision_days": 3,
+"source": "comment"
+},
+"1326291": {
+"est": "2018-04-13",
+"precision_days": 3,
+"source": "comment"
+},
+"1326298": {
+"est": "2018-05-03",
+"precision_days": 365,
+"source": "page"
+},
+"1339536": {
+"est": "2018-05-03",
+"precision_days": 3,
+"source": "comment"
+},
+"1341427": {
+"est": "2018-05-12",
+"precision_days": 3,
+"source": "comment"
+},
+"1349576": {
+"est": "2018-05-21",
+"precision_days": 3,
+"source": "comment"
+},
+"1350905": {
+"est": "2018-05-24",
+"precision_days": 365,
+"source": "page"
+},
+"1351710": {
+"est": "2018-05-24",
+"precision_days": 365,
+"source": "page"
+},
+"1351764": {
+"est": "2018-05-24",
+"precision_days": 365,
+"source": "page"
+},
+"1352182": {
+"est": "2018-05-24",
+"precision_days": 3,
+"source": "comment"
+},
+"1352208": {
+"est": "2018-05-24",
+"precision_days": 3,
+"source": "comment"
+},
+"1352814": {
+"est": "2018-05-26",
+"precision_days": 3,
+"source": "comment"
+},
+"1353454": {
+"est": "2018-05-26",
+"precision_days": 3,
+"source": "comment"
+},
+"1353677": {
+"est": "2018-05-26",
+"precision_days": 365,
+"source": "page"
+},
+"1353678": {
+"est": "2018-05-26",
+"precision_days": 3,
+"source": "comment"
+},
+"1354675": {
+"est": "2018-05-29",
+"precision_days": 3,
+"source": "comment"
+},
+"1354686": {
+"est": "2018-05-31",
+"precision_days": 3,
+"source": "comment"
+},
+"1355650": {
+"est": "2018-05-31",
+"precision_days": 3,
+"source": "comment"
+},
+"1356141": {
+"est": "2018-05-31",
+"precision_days": 3,
+"source": "comment"
+},
+"1356475": {
+"est": "2018-06-01",
+"precision_days": 3,
+"source": "comment"
+},
+"1357444": {
+"est": "2018-06-02",
+"precision_days": 3,
+"source": "comment"
+},
+"1357776": {
+"est": "2018-06-05",
+"precision_days": 365,
+"source": "page"
+},
+"1358090": {
+"est": "2018-06-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1358839": {
+"est": "2018-06-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1359008": {
+"est": "2018-06-05",
+"precision_days": 365,
+"source": "page"
+},
+"1359319": {
+"est": "2018-06-06",
+"precision_days": 3,
+"source": "comment"
+},
+"1359528": {
+"est": "2018-06-06",
+"precision_days": 3,
+"source": "comment"
+},
+"1359983": {
+"est": "2018-06-06",
+"precision_days": 3,
+"source": "comment"
+},
+"1360069": {
+"est": "2018-06-07",
+"precision_days": 3,
+"source": "comment"
+},
+"1362985": {
+"est": "2018-06-21",
+"precision_days": 365,
+"source": "page"
+},
+"1362992": {
+"est": "2018-06-21",
+"precision_days": 3,
+"source": "comment"
+},
+"1363587": {
+"est": "2018-07-02",
+"precision_days": 3,
+"source": "comment"
+},
+"1364537": {
+"est": "2018-06-21",
+"precision_days": 3,
+"source": "comment"
+},
+"13686134": {
+"est": "2025-02-28",
+"precision_days": 3,
+"source": "comment"
+},
+"1368987": {
+"est": "2018-06-24",
+"precision_days": 3,
+"source": "comment"
+},
+"1370338": {
+"est": "2018-07-01",
+"precision_days": 365,
+"source": "page"
+},
+"1371970": {
+"est": "2018-07-01",
+"precision_days": 3,
+"source": "comment"
+},
+"1374509": {
+"est": "2018-07-01",
+"precision_days": 3,
+"source": "comment"
+},
+"1374535": {
+"est": "2018-07-02",
+"precision_days": 3,
+"source": "comment"
+},
+"1374829": {
+"est": "2018-07-04",
+"precision_days": 3,
+"source": "comment"
+},
+"1374955": {
+"est": "2018-07-02",
+"precision_days": 3,
+"source": "comment"
+},
+"1375240": {
+"est": "2018-07-03",
+"precision_days": 3,
+"source": "comment"
+},
+"1375313": {
+"est": "2018-07-02",
+"precision_days": 3,
+"source": "comment"
+},
+"1376604": {
+"est": "2018-07-04",
+"precision_days": 3,
+"source": "comment"
+},
+"1377706": {
+"est": "2018-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1378251": {
+"est": "2018-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1378276": {
+"est": "2018-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1378333": {
+"est": "2018-07-05",
+"precision_days": 365,
+"source": "page"
+},
+"1378707": {
+"est": "2018-07-05",
+"precision_days": 365,
+"source": "page"
+},
+"1379560": {
+"est": "2018-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1380662": {
+"est": "2018-07-05",
+"precision_days": 365,
+"source": "page"
+},
+"1381217": {
+"est": "2018-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1381219": {
+"est": "2018-07-05",
+"precision_days": 365,
+"source": "page"
+},
+"1381220": {
+"est": "2018-07-05",
+"precision_days": 365,
+"source": "page"
+},
+"1381862": {
+"est": "2018-07-05",
+"precision_days": 365,
+"source": "page"
+},
+"1383013": {
+"est": "2018-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1384436": {
+"est": "2018-07-05",
+"precision_days": 365,
+"source": "page"
+},
+"1384683": {
+"est": "2018-07-05",
+"precision_days": 365,
+"source": "page"
+},
+"1386697": {
+"est": "2018-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1389205": {
+"est": "2018-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1389946": {
+"est": "2018-07-05",
+"precision_days": 365,
+"source": "page"
+},
+"1392293": {
+"est": "2018-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1392566": {
+"est": "2018-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1393173": {
+"est": "2018-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1395961": {
+"est": "2018-07-05",
+"precision_days": 365,
+"source": "page"
+},
+"1395962": {
+"est": "2018-07-05",
+"precision_days": 365,
+"source": "page"
+},
+"1396682": {
+"est": "2018-07-05",
+"precision_days": 365,
+"source": "page"
+},
+"1398926": {
+"est": "2018-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1399142": {
+"est": "2018-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"13991529": {
+"est": "2025-03-11",
+"precision_days": 365,
+"source": "page"
+},
+"1399503": {
+"est": "2018-07-05",
+"precision_days": 365,
+"source": "page"
+},
+"1399943": {
+"est": "2018-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1402281": {
+"est": "2018-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1402605": {
+"est": "2018-07-05",
+"precision_days": 365,
+"source": "page"
+},
+"1406055": {
+"est": "2018-08-19",
+"precision_days": 365,
+"source": "page"
+},
+"1406938": {
+"est": "2018-08-19",
+"precision_days": 3,
+"source": "comment"
+},
+"1407279": {
+"est": "2018-08-20",
+"precision_days": 3,
+"source": "comment"
+},
+"1407423": {
+"est": "2018-08-23",
+"precision_days": 3,
+"source": "comment"
+},
+"1407967": {
+"est": "2018-08-25",
+"precision_days": 3,
+"source": "comment"
+},
+"1408115": {
+"est": "2018-08-28",
+"precision_days": 365,
+"source": "page"
+},
+"1408664": {
+"est": "2018-08-28",
+"precision_days": 365,
+"source": "page"
+},
+"1410555": {
+"est": "2018-08-28",
+"precision_days": 365,
+"source": "page"
+},
+"1411059": {
+"est": "2018-08-28",
+"precision_days": 3,
+"source": "comment"
+},
+"1411148": {
+"est": "2018-08-28",
+"precision_days": 365,
+"source": "page"
+},
+"1411915": {
+"est": "2018-08-28",
+"precision_days": 3,
+"source": "comment"
+},
+"1412558": {
+"est": "2018-08-28",
+"precision_days": 3,
+"source": "comment"
+},
+"1413574": {
+"est": "2018-08-29",
+"precision_days": 3,
+"source": "comment"
+},
+"1413575": {
+"est": "2018-09-01",
+"precision_days": 365,
+"source": "page"
+},
+"1414957": {
+"est": "2018-09-01",
+"precision_days": 365,
+"source": "page"
+},
+"1415142": {
+"est": "2018-09-01",
+"precision_days": 365,
+"source": "page"
+},
+"1415393": {
+"est": "2018-09-01",
+"precision_days": 3,
+"source": "comment"
+},
+"1416048": {
+"est": "2018-09-04",
+"precision_days": 3,
+"source": "comment"
+},
+"1416049": {
+"est": "2018-09-07",
+"precision_days": 365,
+"source": "page"
+},
+"1416052": {
+"est": "2018-09-07",
+"precision_days": 365,
+"source": "page"
+},
+"1416055": {
+"est": "2018-09-07",
+"precision_days": 365,
+"source": "page"
+},
+"1416173": {
+"est": "2018-09-07",
+"precision_days": 365,
+"source": "page"
+},
+"1416359": {
+"est": "2018-09-07",
+"precision_days": 365,
+"source": "page"
+},
+"1416875": {
+"est": "2018-09-07",
+"precision_days": 3,
+"source": "comment"
+},
+"1419940": {
+"est": "2018-09-08",
+"precision_days": 3,
+"source": "comment"
+},
+"1420186": {
+"est": "2018-09-09",
+"precision_days": 365,
+"source": "page"
+},
+"1420289": {
+"est": "2018-09-08",
+"precision_days": 3,
+"source": "comment"
+},
+"1420738": {
+"est": "2018-09-09",
+"precision_days": 3,
+"source": "comment"
+},
+"1423233": {
+"est": "2018-09-16",
+"precision_days": 365,
+"source": "page"
+},
+"1424748": {
+"est": "2018-09-16",
+"precision_days": 3,
+"source": "comment"
+},
+"1425445": {
+"est": "2018-09-19",
+"precision_days": 3,
+"source": "comment"
+},
+"1425958": {
+"est": "2018-09-19",
+"precision_days": 3,
+"source": "comment"
+},
+"1426780": {
+"est": "2018-09-19",
+"precision_days": 3,
+"source": "comment"
+},
+"1426804": {
+"est": "2018-09-20",
+"precision_days": 3,
+"source": "comment"
+},
+"1431844": {
+"est": "2018-09-30",
+"precision_days": 3,
+"source": "comment"
+},
+"1431903": {
+"est": "2018-09-29",
+"precision_days": 3,
+"source": "comment"
+},
+"1440444": {
+"est": "2018-10-15",
+"precision_days": 3,
+"source": "comment"
+},
+"1443359": {
+"est": "2018-10-15",
+"precision_days": 3,
+"source": "comment"
+},
+"1443991": {
+"est": "2018-10-22",
+"precision_days": 3,
+"source": "comment"
+},
+"1444286": {
+"est": "2018-10-30",
+"precision_days": 365,
+"source": "page"
+},
+"1448396": {
+"est": "2018-10-27",
+"precision_days": 3,
+"source": "comment"
+},
+"1450593": {
+"est": "2018-10-30",
+"precision_days": 3,
+"source": "comment"
+},
+"1454068": {
+"est": "2018-11-03",
+"precision_days": 3,
+"source": "comment"
+},
+"1456341": {
+"est": "2018-11-06",
+"precision_days": 3,
+"source": "comment"
+},
+"1458408": {
+"est": "2018-11-11",
+"precision_days": 3,
+"source": "comment"
+},
+"1461247": {
+"est": "2018-11-14",
+"precision_days": 3,
+"source": "comment"
+},
+"1464785": {
+"est": "2018-11-21",
+"precision_days": 3,
+"source": "comment"
+},
+"1465476": {
+"est": "2018-11-25",
+"precision_days": 3,
+"source": "comment"
+},
+"1466422": {
+"est": "2018-11-25",
+"precision_days": 365,
+"source": "page"
+},
+"1466940": {
+"est": "2018-11-25",
+"precision_days": 3,
+"source": "comment"
+},
+"1470289": {
+"est": "2018-12-01",
+"precision_days": 365,
+"source": "page"
+},
+"1470680": {
+"est": "2018-12-01",
+"precision_days": 3,
+"source": "comment"
+},
+"1471397": {
+"est": "2018-12-02",
+"precision_days": 3,
+"source": "comment"
+},
+"1471792": {
+"est": "2018-12-06",
+"precision_days": 3,
+"source": "comment"
+},
+"1472157": {
+"est": "2018-12-03",
+"precision_days": 3,
+"source": "comment"
+},
+"1473996": {
+"est": "2018-12-10",
+"precision_days": 365,
+"source": "page"
+},
+"1475817": {
+"est": "2018-12-10",
+"precision_days": 3,
+"source": "comment"
+},
+"1477565": {
+"est": "2018-12-16",
+"precision_days": 365,
+"source": "page"
+},
+"1478772": {
+"est": "2018-12-16",
+"precision_days": 3,
+"source": "comment"
+},
+"1478999": {
+"est": "2018-12-16",
+"precision_days": 3,
+"source": "comment"
+},
+"1481315": {
+"est": "2018-12-20",
+"precision_days": 3,
+"source": "comment"
+},
+"1481680": {
+"est": "2018-12-25",
+"precision_days": 365,
+"source": "page"
+},
+"1482444": {
+"est": "2018-12-25",
+"precision_days": 3,
+"source": "comment"
+},
+"1483291": {
+"est": "2018-12-25",
+"precision_days": 3,
+"source": "comment"
+},
+"1483327": {
+"est": "2018-12-26",
+"precision_days": 3,
+"source": "comment"
+},
+"1483354": {
+"est": "2018-12-26",
+"precision_days": 3,
+"source": "comment"
+},
+"1483673": {
+"est": "2018-12-26",
+"precision_days": 3,
+"source": "comment"
+},
+"1484842": {
+"est": "2018-12-29",
+"precision_days": 3,
+"source": "comment"
+},
+"1487245": {
+"est": "2019-01-02",
+"precision_days": 3,
+"source": "comment"
+},
+"1489883": {
+"est": "2019-01-11",
+"precision_days": 3,
+"source": "comment"
+},
+"1493965": {
+"est": "2019-01-13",
+"precision_days": 3,
+"source": "comment"
+},
+"1494874": {
+"est": "2019-01-16",
+"precision_days": 3,
+"source": "comment"
+},
+"1495635": {
+"est": "2019-01-16",
+"precision_days": 3,
+"source": "comment"
+},
+"1496569": {
+"est": "2019-01-16",
+"precision_days": 3,
+"source": "comment"
+},
+"1496682": {
+"est": "2019-01-21",
+"precision_days": 365,
+"source": "page"
+},
+"1499678": {
+"est": "2019-01-21",
+"precision_days": 3,
+"source": "comment"
+},
+"1502595": {
+"est": "2019-01-27",
+"precision_days": 3,
+"source": "comment"
+},
+"1504258": {
+"est": "2019-01-29",
+"precision_days": 365,
+"source": "page"
+},
+"1504261": {
+"est": "2019-01-29",
+"precision_days": 3,
+"source": "comment"
+},
+"1505597": {
+"est": "2019-02-05",
+"precision_days": 365,
+"source": "page"
+},
+"1505637": {
+"est": "2019-02-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1505809": {
+"est": "2019-02-05",
+"precision_days": 365,
+"source": "page"
+},
+"1507089": {
+"est": "2019-02-05",
+"precision_days": 365,
+"source": "page"
+},
+"1507169": {
+"est": "2019-02-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1507196": {
+"est": "2019-02-09",
+"precision_days": 3,
+"source": "comment"
+},
+"1513262": {
+"est": "2019-02-12",
+"precision_days": 3,
+"source": "comment"
+},
+"1516561": {
+"est": "2019-02-21",
+"precision_days": 365,
+"source": "page"
+},
+"1516896": {
+"est": "2019-02-21",
+"precision_days": 365,
+"source": "page"
+},
+"1519681": {
+"est": "2019-02-21",
+"precision_days": 3,
+"source": "comment"
+},
+"1521585": {
+"est": "2019-02-28",
+"precision_days": 365,
+"source": "page"
+},
+"1521878": {
+"est": "2019-02-28",
+"precision_days": 365,
+"source": "page"
+},
+"1522077": {
+"est": "2019-02-28",
+"precision_days": 3,
+"source": "comment"
+},
+"1522096": {
+"est": "2019-02-28",
+"precision_days": 3,
+"source": "comment"
+},
+"1523966": {
+"est": "2019-02-28",
+"precision_days": 365,
+"source": "page"
+},
+"1524691": {
+"est": "2019-02-28",
+"precision_days": 3,
+"source": "comment"
+},
+"1526000": {
+"est": "2019-03-10",
+"precision_days": 365,
+"source": "page"
+},
+"1526679": {
+"est": "2019-03-10",
+"precision_days": 3,
+"source": "comment"
+},
+"1526924": {
+"est": "2019-03-10",
+"precision_days": 365,
+"source": "page"
+},
+"1528046": {
+"est": "2019-03-10",
+"precision_days": 3,
+"source": "comment"
+},
+"1528425": {
+"est": "2019-03-10",
+"precision_days": 365,
+"source": "page"
+},
+"1529233": {
+"est": "2019-03-10",
+"precision_days": 3,
+"source": "comment"
+},
+"1530807": {
+"est": "2019-03-15",
+"precision_days": 3,
+"source": "comment"
+},
+"1533534": {
+"est": "2019-03-20",
+"precision_days": 365,
+"source": "page"
+},
+"1536943": {
+"est": "2019-03-20",
+"precision_days": 3,
+"source": "comment"
+},
+"1539416": {
+"est": "2019-03-20",
+"precision_days": 3,
+"source": "comment"
+},
+"1540012": {
+"est": "2019-03-21",
+"precision_days": 3,
+"source": "comment"
+},
+"1540306": {
+"est": "2019-03-23",
+"precision_days": 365,
+"source": "page"
+},
+"1541567": {
+"est": "2019-03-23",
+"precision_days": 3,
+"source": "comment"
+},
+"1546640": {
+"est": "2019-04-04",
+"precision_days": 3,
+"source": "comment"
+},
+"1547952": {
+"est": "2019-04-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1549135": {
+"est": "2019-04-12",
+"precision_days": 3,
+"source": "comment"
+},
+"1555792": {
+"est": "2019-04-19",
+"precision_days": 3,
+"source": "comment"
+},
+"1558452": {
+"est": "2019-04-19",
+"precision_days": 3,
+"source": "comment"
+},
+"1559959": {
+"est": "2019-04-27",
+"precision_days": 3,
+"source": "comment"
+},
+"1559998": {
+"est": "2019-04-27",
+"precision_days": 3,
+"source": "comment"
+},
+"1561982": {
+"est": "2019-04-28",
+"precision_days": 3,
+"source": "comment"
+},
+"1562663": {
+"est": "2019-04-28",
+"precision_days": 365,
+"source": "page"
+},
+"1563201": {
+"est": "2019-04-28",
+"precision_days": 3,
+"source": "comment"
+},
+"1564456": {
+"est": "2019-04-29",
+"precision_days": 365,
+"source": "page"
+},
+"1564459": {
+"est": "2019-04-29",
+"precision_days": 3,
+"source": "comment"
+},
+"1564509": {
+"est": "2019-04-30",
+"precision_days": 3,
+"source": "comment"
+},
+"1568276": {
+"est": "2019-05-07",
+"precision_days": 365,
+"source": "page"
+},
+"1569319": {
+"est": "2019-05-07",
+"precision_days": 3,
+"source": "comment"
+},
+"1570697": {
+"est": "2019-05-10",
+"precision_days": 3,
+"source": "comment"
+},
+"1572704": {
+"est": "2019-05-13",
+"precision_days": 3,
+"source": "comment"
+},
+"1577268": {
+"est": "2019-05-24",
+"precision_days": 3,
+"source": "comment"
+},
+"1577684": {
+"est": "2019-05-24",
+"precision_days": 3,
+"source": "comment"
+},
+"1577807": {
+"est": "2019-05-24",
+"precision_days": 365,
+"source": "page"
+},
+"1577993": {
+"est": "2019-05-24",
+"precision_days": 3,
+"source": "comment"
+},
+"1578011": {
+"est": "2019-05-24",
+"precision_days": 3,
+"source": "comment"
+},
+"1578115": {
+"est": "2019-05-24",
+"precision_days": 3,
+"source": "comment"
+},
+"1578945": {
+"est": "2019-05-24",
+"precision_days": 365,
+"source": "page"
+},
+"1579463": {
+"est": "2019-05-24",
+"precision_days": 365,
+"source": "page"
+},
+"1580087": {
+"est": "2019-05-24",
+"precision_days": 365,
+"source": "page"
+},
+"1580122": {
+"est": "2019-05-24",
+"precision_days": 3,
+"source": "comment"
+},
+"1580443": {
+"est": "2019-05-25",
+"precision_days": 365,
+"source": "page"
+},
+"1580444": {
+"est": "2019-05-25",
+"precision_days": 3,
+"source": "comment"
+},
+"1580696": {
+"est": "2019-05-25",
+"precision_days": 3,
+"source": "comment"
+},
+"1581099": {
+"est": "2019-05-25",
+"precision_days": 3,
+"source": "comment"
+},
+"1583913": {
+"est": "2019-05-30",
+"precision_days": 3,
+"source": "comment"
+},
+"1586835": {
+"est": "2019-06-06",
+"precision_days": 3,
+"source": "comment"
+},
+"1589568": {
+"est": "2019-06-07",
+"precision_days": 3,
+"source": "comment"
+},
+"1592854": {
+"est": "2019-06-13",
+"precision_days": 365,
+"source": "page"
+},
+"1593401": {
+"est": "2019-06-13",
+"precision_days": 3,
+"source": "comment"
+},
+"1594014": {
+"est": "2019-06-14",
+"precision_days": 3,
+"source": "comment"
+},
+"1594016": {
+"est": "2019-06-14",
+"precision_days": 3,
+"source": "comment"
+},
+"1597069": {
+"est": "2019-06-26",
+"precision_days": 3,
+"source": "comment"
+},
+"1601792": {
+"est": "2019-06-28",
+"precision_days": 3,
+"source": "comment"
+},
+"1602096": {
+"est": "2019-06-28",
+"precision_days": 365,
+"source": "page"
+},
+"1602921": {
+"est": "2019-06-28",
+"precision_days": 3,
+"source": "comment"
+},
+"1602922": {
+"est": "2019-06-28",
+"precision_days": 365,
+"source": "page"
+},
+"1602925": {
+"est": "2019-06-28",
+"precision_days": 3,
+"source": "comment"
+},
+"1605950": {
+"est": "2019-07-03",
+"precision_days": 3,
+"source": "comment"
+},
+"1606397": {
+"est": "2019-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1607289": {
+"est": "2019-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1608224": {
+"est": "2019-07-05",
+"precision_days": 365,
+"source": "page"
+},
+"1608990": {
+"est": "2019-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1611070": {
+"est": "2019-07-05",
+"precision_days": 365,
+"source": "page"
+},
+"1612645": {
+"est": "2019-07-05",
+"precision_days": 365,
+"source": "page"
+},
+"1612823": {
+"est": "2019-07-05",
+"precision_days": 365,
+"source": "page"
+},
+"1612953": {
+"est": "2019-07-05",
+"precision_days": 365,
+"source": "page"
+},
+"1612977": {
+"est": "2019-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1614145": {
+"est": "2019-07-05",
+"precision_days": 365,
+"source": "page"
+},
+"1614591": {
+"est": "2019-07-05",
+"precision_days": 365,
+"source": "page"
+},
+"1615291": {
+"est": "2019-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1615323": {
+"est": "2019-07-05",
+"precision_days": 365,
+"source": "page"
+},
+"1615645": {
+"est": "2019-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1616831": {
+"est": "2019-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1617151": {
+"est": "2019-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1618502": {
+"est": "2019-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1619300": {
+"est": "2019-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1619838": {
+"est": "2019-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1619870": {
+"est": "2019-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1624886": {
+"est": "2019-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1625898": {
+"est": "2019-07-05",
+"precision_days": 365,
+"source": "page"
+},
+"1627803": {
+"est": "2019-07-05",
+"precision_days": 365,
+"source": "page"
+},
+"1628258": {
+"est": "2019-07-05",
+"precision_days": 365,
+"source": "page"
+},
+"1628538": {
+"est": "2019-08-08",
+"precision_days": 3,
+"source": "comment"
+},
+"1629714": {
+"est": "2019-08-09",
+"precision_days": 3,
+"source": "comment"
+},
+"1630501": {
+"est": "2019-08-11",
+"precision_days": 3,
+"source": "comment"
+},
+"1631736": {
+"est": "2019-08-13",
+"precision_days": 3,
+"source": "comment"
+},
+"1631737": {
+"est": "2019-08-21",
+"precision_days": 365,
+"source": "page"
+},
+"1631738": {
+"est": "2019-08-13",
+"precision_days": 3,
+"source": "comment"
+},
+"1633074": {
+"est": "2019-08-21",
+"precision_days": 3,
+"source": "comment"
+},
+"1634315": {
+"est": "2019-08-21",
+"precision_days": 3,
+"source": "comment"
+},
+"1637681": {
+"est": "2019-08-24",
+"precision_days": 3,
+"source": "comment"
+},
+"1637827": {
+"est": "2019-08-24",
+"precision_days": 3,
+"source": "comment"
+},
+"1637934": {
+"est": "2019-08-24",
+"precision_days": 3,
+"source": "comment"
+},
+"1640178": {
+"est": "2019-08-29",
+"precision_days": 3,
+"source": "comment"
+},
+"1641019": {
+"est": "2019-08-29",
+"precision_days": 3,
+"source": "comment"
+},
+"1642198": {
+"est": "2019-09-04",
+"precision_days": 3,
+"source": "comment"
+},
+"1642455": {
+"est": "2019-09-04",
+"precision_days": 365,
+"source": "page"
+},
+"1642474": {
+"est": "2019-09-04",
+"precision_days": 3,
+"source": "comment"
+},
+"1644115": {
+"est": "2019-09-04",
+"precision_days": 3,
+"source": "comment"
+},
+"1646057": {
+"est": "2019-09-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1647710": {
+"est": "2019-09-10",
+"precision_days": 3,
+"source": "comment"
+},
+"1648918": {
+"est": "2019-09-10",
+"precision_days": 365,
+"source": "page"
+},
+"1650249": {
+"est": "2019-09-10",
+"precision_days": 3,
+"source": "comment"
+},
+"1658183": {
+"est": "2019-09-12",
+"precision_days": 3,
+"source": "comment"
+},
+"1658901": {
+"est": "2019-09-14",
+"precision_days": 365,
+"source": "page"
+},
+"1659394": {
+"est": "2019-09-14",
+"precision_days": 3,
+"source": "comment"
+},
+"1662012": {
+"est": "2019-09-17",
+"precision_days": 3,
+"source": "comment"
+},
+"1662438": {
+"est": "2019-09-19",
+"precision_days": 3,
+"source": "comment"
+},
+"1666235": {
+"est": "2019-09-20",
+"precision_days": 3,
+"source": "comment"
+},
+"1667065": {
+"est": "2019-09-26",
+"precision_days": 3,
+"source": "comment"
+},
+"1667466": {
+"est": "2019-09-26",
+"precision_days": 3,
+"source": "comment"
+},
+"1667809": {
+"est": "2019-10-07",
+"precision_days": 3,
+"source": "comment"
+},
+"1669736": {
+"est": "2019-10-07",
+"precision_days": 3,
+"source": "comment"
+},
+"1677540": {
+"est": "2019-10-07",
+"precision_days": 3,
+"source": "comment"
+},
+"1678488": {
+"est": "2019-10-15",
+"precision_days": 3,
+"source": "comment"
+},
+"1679980": {
+"est": "2019-10-15",
+"precision_days": 3,
+"source": "comment"
+},
+"1682441": {
+"est": "2019-10-15",
+"precision_days": 365,
+"source": "page"
+},
+"1682857": {
+"est": "2019-10-15",
+"precision_days": 3,
+"source": "comment"
+},
+"1683367": {
+"est": "2019-10-15",
+"precision_days": 3,
+"source": "comment"
+},
+"1684098": {
+"est": "2019-10-17",
+"precision_days": 3,
+"source": "comment"
+},
+"1685160": {
+"est": "2019-10-18",
+"precision_days": 3,
+"source": "comment"
+},
+"1689335": {
+"est": "2019-10-29",
+"precision_days": 3,
+"source": "comment"
+},
+"1689478": {
+"est": "2019-10-29",
+"precision_days": 365,
+"source": "page"
+},
+"1691424": {
+"est": "2019-10-29",
+"precision_days": 3,
+"source": "comment"
+},
+"1694130": {
+"est": "2019-11-04",
+"precision_days": 3,
+"source": "comment"
+},
+"1694483": {
+"est": "2019-11-07",
+"precision_days": 3,
+"source": "comment"
+},
+"1694771": {
+"est": "2019-11-07",
+"precision_days": 3,
+"source": "comment"
+},
+"1698048": {
+"est": "2019-11-16",
+"precision_days": 365,
+"source": "page"
+},
+"1702209": {
+"est": "2019-11-16",
+"precision_days": 3,
+"source": "comment"
+},
+"1704475": {
+"est": "2019-11-21",
+"precision_days": 365,
+"source": "page"
+},
+"1705091": {
+"est": "2019-11-21",
+"precision_days": 3,
+"source": "comment"
+},
+"1706300": {
+"est": "2019-11-21",
+"precision_days": 3,
+"source": "comment"
+},
+"1707408": {
+"est": "2019-11-22",
+"precision_days": 3,
+"source": "comment"
+},
+"1709756": {
+"est": "2019-11-27",
+"precision_days": 3,
+"source": "comment"
+},
+"1709905": {
+"est": "2019-11-28",
+"precision_days": 3,
+"source": "comment"
+},
+"1715757": {
+"est": "2019-12-10",
+"precision_days": 3,
+"source": "comment"
+},
+"1716007": {
+"est": "2019-12-10",
+"precision_days": 3,
+"source": "comment"
+},
+"1717389": {
+"est": "2019-12-12",
+"precision_days": 365,
+"source": "page"
+},
+"1717424": {
+"est": "2019-12-12",
+"precision_days": 3,
+"source": "comment"
+},
+"1717661": {
+"est": "2019-12-13",
+"precision_days": 365,
+"source": "page"
+},
+"1718997": {
+"est": "2019-12-13",
+"precision_days": 365,
+"source": "page"
+},
+"1719491": {
+"est": "2019-12-13",
+"precision_days": 365,
+"source": "page"
+},
+"1719565": {
+"est": "2019-12-13",
+"precision_days": 3,
+"source": "comment"
+},
+"1719799": {
+"est": "2019-12-13",
+"precision_days": 365,
+"source": "page"
+},
+"1720609": {
+"est": "2019-12-13",
+"precision_days": 3,
+"source": "comment"
+},
+"1723258": {
+"est": "2019-12-19",
+"precision_days": 365,
+"source": "page"
+},
+"1724369": {
+"est": "2019-12-19",
+"precision_days": 3,
+"source": "comment"
+},
+"1724697": {
+"est": "2019-12-19",
+"precision_days": 3,
+"source": "comment"
+},
+"1725841": {
+"est": "2019-12-22",
+"precision_days": 3,
+"source": "comment"
+},
+"1728573": {
+"est": "2019-12-28",
+"precision_days": 365,
+"source": "page"
+},
+"1728714": {
+"est": "2019-12-28",
+"precision_days": 3,
+"source": "comment"
+},
+"1731588": {
+"est": "2020-01-02",
+"precision_days": 3,
+"source": "comment"
+},
+"1734268": {
+"est": "2020-01-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1734569": {
+"est": "2020-01-15",
+"precision_days": 365,
+"source": "page"
+},
+"1736856": {
+"est": "2020-01-15",
+"precision_days": 365,
+"source": "page"
+},
+"1737045": {
+"est": "2020-01-15",
+"precision_days": 365,
+"source": "page"
+},
+"1740834": {
+"est": "2020-01-15",
+"precision_days": 3,
+"source": "comment"
+},
+"17420728": {
+"est": "2025-03-11",
+"precision_days": 3,
+"source": "comment"
+},
+"1742103": {
+"est": "2020-01-15",
+"precision_days": 3,
+"source": "comment"
+},
+"1742614": {
+"est": "2020-01-17",
+"precision_days": 3,
+"source": "comment"
+},
+"1742909": {
+"est": "2020-01-17",
+"precision_days": 3,
+"source": "comment"
+},
+"1743047": {
+"est": "2020-01-17",
+"precision_days": 3,
+"source": "comment"
+},
+"1743399": {
+"est": "2020-01-17",
+"precision_days": 3,
+"source": "comment"
+},
+"1743884": {
+"est": "2020-01-17",
+"precision_days": 365,
+"source": "page"
+},
+"1744213": {
+"est": "2020-01-17",
+"precision_days": 3,
+"source": "comment"
+},
+"1747827": {
+"est": "2020-01-29",
+"precision_days": 365,
+"source": "page"
+},
+"1748583": {
+"est": "2020-01-27",
+"precision_days": 3,
+"source": "comment"
+},
+"1752644": {
+"est": "2020-01-29",
+"precision_days": 3,
+"source": "comment"
+},
+"1752862": {
+"est": "2020-01-29",
+"precision_days": 3,
+"source": "comment"
+},
+"1753624": {
+"est": "2020-01-31",
+"precision_days": 3,
+"source": "comment"
+},
+"1755355": {
+"est": "2020-02-04",
+"precision_days": 365,
+"source": "page"
+},
+"1756023": {
+"est": "2020-02-04",
+"precision_days": 3,
+"source": "comment"
+},
+"1756259": {
+"est": "2020-02-13",
+"precision_days": 365,
+"source": "page"
+},
+"1760009": {
+"est": "2020-02-13",
+"precision_days": 3,
+"source": "comment"
+},
+"1764298": {
+"est": "2020-02-13",
+"precision_days": 3,
+"source": "comment"
+},
+"1765483": {
+"est": "2020-02-20",
+"precision_days": 365,
+"source": "page"
+},
+"1767151": {
+"est": "2020-02-20",
+"precision_days": 3,
+"source": "comment"
+},
+"1767167": {
+"est": "2020-02-21",
+"precision_days": 365,
+"source": "page"
+},
+"1767228": {
+"est": "2020-02-21",
+"precision_days": 3,
+"source": "comment"
+},
+"1769687": {
+"est": "2020-02-21",
+"precision_days": 3,
+"source": "comment"
+},
+"1774194": {
+"est": "2020-02-28",
+"precision_days": 3,
+"source": "comment"
+},
+"1776324": {
+"est": "2020-03-05",
+"precision_days": 365,
+"source": "page"
+},
+"1776560": {
+"est": "2020-03-05",
+"precision_days": 365,
+"source": "page"
+},
+"1779161": {
+"est": "2020-03-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1780111": {
+"est": "2020-03-07",
+"precision_days": 3,
+"source": "comment"
+},
+"1782571": {
+"est": "2020-03-11",
+"precision_days": 3,
+"source": "comment"
+},
+"1784274": {
+"est": "2020-03-16",
+"precision_days": 3,
+"source": "comment"
+},
+"1786519": {
+"est": "2020-03-18",
+"precision_days": 3,
+"source": "comment"
+},
+"1788189": {
+"est": "2020-03-21",
+"precision_days": 3,
+"source": "comment"
+},
+"1788303": {
+"est": "2020-03-21",
+"precision_days": 3,
+"source": "comment"
+},
+"1788952": {
+"est": "2020-03-21",
+"precision_days": 3,
+"source": "comment"
+},
+"1791061": {
+"est": "2020-03-28",
+"precision_days": 3,
+"source": "comment"
+},
+"1792084": {
+"est": "2020-03-28",
+"precision_days": 365,
+"source": "page"
+},
+"1792087": {
+"est": "2020-03-28",
+"precision_days": 365,
+"source": "page"
+},
+"1793091": {
+"est": "2020-03-28",
+"precision_days": 3,
+"source": "comment"
+},
+"1795113": {
+"est": "2020-04-11",
+"precision_days": 365,
+"source": "page"
+},
+"1795228": {
+"est": "2020-04-11",
+"precision_days": 3,
+"source": "comment"
+},
+"1795653": {
+"est": "2020-04-11",
+"precision_days": 365,
+"source": "page"
+},
+"1796378": {
+"est": "2020-04-11",
+"precision_days": 365,
+"source": "page"
+},
+"1798115": {
+"est": "2020-04-11",
+"precision_days": 3,
+"source": "comment"
+},
+"1802427": {
+"est": "2020-04-11",
+"precision_days": 3,
+"source": "comment"
+},
+"1810257": {
+"est": "2020-04-24",
+"precision_days": 3,
+"source": "comment"
+},
+"1810683": {
+"est": "2020-04-24",
+"precision_days": 365,
+"source": "page"
+},
+"1811449": {
+"est": "2020-04-24",
+"precision_days": 3,
+"source": "comment"
+},
+"1811554": {
+"est": "2020-04-24",
+"precision_days": 3,
+"source": "comment"
+},
+"1814332": {
+"est": "2020-05-01",
+"precision_days": 3,
+"source": "comment"
+},
+"1819113": {
+"est": "2020-05-04",
+"precision_days": 3,
+"source": "comment"
+},
+"1820133": {
+"est": "2020-05-04",
+"precision_days": 3,
+"source": "comment"
+},
+"1820363": {
+"est": "2020-05-05",
+"precision_days": 365,
+"source": "page"
+},
+"1820574": {
+"est": "2020-05-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1822320": {
+"est": "2020-05-08",
+"precision_days": 3,
+"source": "comment"
+},
+"1823865": {
+"est": "2020-05-09",
+"precision_days": 3,
+"source": "comment"
+},
+"1823995": {
+"est": "2020-05-09",
+"precision_days": 3,
+"source": "comment"
+},
+"1824105": {
+"est": "2020-05-11",
+"precision_days": 3,
+"source": "comment"
+},
+"1824141": {
+"est": "2020-05-11",
+"precision_days": 365,
+"source": "page"
+},
+"1824962": {
+"est": "2020-05-12",
+"precision_days": 3,
+"source": "comment"
+},
+"1825180": {
+"est": "2020-05-11",
+"precision_days": 3,
+"source": "comment"
+},
+"1826870": {
+"est": "2020-05-14",
+"precision_days": 365,
+"source": "page"
+},
+"1827388": {
+"est": "2020-05-14",
+"precision_days": 3,
+"source": "comment"
+},
+"1827598": {
+"est": "2020-05-14",
+"precision_days": 3,
+"source": "comment"
+},
+"1827717": {
+"est": "2020-05-15",
+"precision_days": 3,
+"source": "comment"
+},
+"1828944": {
+"est": "2020-05-17",
+"precision_days": 3,
+"source": "comment"
+},
+"1829239": {
+"est": "2020-05-17",
+"precision_days": 3,
+"source": "comment"
+},
+"1829260": {
+"est": "2020-05-17",
+"precision_days": 3,
+"source": "comment"
+},
+"1829950": {
+"est": "2020-05-18",
+"precision_days": 3,
+"source": "comment"
+},
+"1830043": {
+"est": "2020-05-19",
+"precision_days": 3,
+"source": "comment"
+},
+"1830193": {
+"est": "2020-05-19",
+"precision_days": 365,
+"source": "page"
+},
+"1830318": {
+"est": "2020-05-20",
+"precision_days": 3,
+"source": "comment"
+},
+"1830558": {
+"est": "2020-05-19",
+"precision_days": 3,
+"source": "comment"
+},
+"1831304": {
+"est": "2020-05-21",
+"precision_days": 365,
+"source": "page"
+},
+"1832175": {
+"est": "2020-05-22",
+"precision_days": 3,
+"source": "comment"
+},
+"1832391": {
+"est": "2020-05-21",
+"precision_days": 3,
+"source": "comment"
+},
+"1832879": {
+"est": "2020-05-23",
+"precision_days": 3,
+"source": "comment"
+},
+"1833747": {
+"est": "2020-05-23",
+"precision_days": 3,
+"source": "comment"
+},
+"1834766": {
+"est": "2020-05-25",
+"precision_days": 3,
+"source": "comment"
+},
+"1835565": {
+"est": "2020-05-26",
+"precision_days": 3,
+"source": "comment"
+},
+"1837737": {
+"est": "2020-05-29",
+"precision_days": 3,
+"source": "comment"
+},
+"1838116": {
+"est": "2020-06-03",
+"precision_days": 365,
+"source": "page"
+},
+"1838661": {
+"est": "2020-06-08",
+"precision_days": 365,
+"source": "page"
+},
+"1840407": {
+"est": "2020-06-08",
+"precision_days": 365,
+"source": "page"
+},
+"1840529": {
+"est": "2020-06-03",
+"precision_days": 3,
+"source": "comment"
+},
+"18406010": {
+"est": "2025-03-14",
+"precision_days": 3,
+"source": "comment"
+},
+"1842758": {
+"est": "2020-06-08",
+"precision_days": 365,
+"source": "page"
+},
+"1844790": {
+"est": "2020-06-08",
+"precision_days": 3,
+"source": "comment"
+},
+"1845243": {
+"est": "2020-06-08",
+"precision_days": 3,
+"source": "comment"
+},
+"1850085": {
+"est": "2020-06-14",
+"precision_days": 3,
+"source": "comment"
+},
+"1850241": {
+"est": "2020-06-15",
+"precision_days": 3,
+"source": "comment"
+},
+"1851322": {
+"est": "2020-06-18",
+"precision_days": 3,
+"source": "comment"
+},
+"1852015": {
+"est": "2020-06-18",
+"precision_days": 3,
+"source": "comment"
+},
+"1854192": {
+"est": "2020-06-24",
+"precision_days": 3,
+"source": "comment"
+},
+"1854319": {
+"est": "2020-06-25",
+"precision_days": 365,
+"source": "page"
+},
+"1857054": {
+"est": "2020-06-25",
+"precision_days": 3,
+"source": "comment"
+},
+"1861848": {
+"est": "2020-07-02",
+"precision_days": 3,
+"source": "comment"
+},
+"1862213": {
+"est": "2020-07-04",
+"precision_days": 3,
+"source": "comment"
+},
+"1864223": {
+"est": "2020-07-04",
+"precision_days": 3,
+"source": "comment"
+},
+"1865592": {
+"est": "2020-07-04",
+"precision_days": 3,
+"source": "comment"
+},
+"1868317": {
+"est": "2020-07-04",
+"precision_days": 365,
+"source": "page"
+},
+"1873918": {
+"est": "2020-07-04",
+"precision_days": 3,
+"source": "comment"
+},
+"1874081": {
+"est": "2020-07-04",
+"precision_days": 3,
+"source": "comment"
+},
+"1880306": {
+"est": "2020-07-04",
+"precision_days": 3,
+"source": "comment"
+},
+"1881554": {
+"est": "2020-07-04",
+"precision_days": 3,
+"source": "comment"
+},
+"1883039": {
+"est": "2020-07-04",
+"precision_days": 365,
+"source": "page"
+},
+"1887130": {
+"est": "2020-08-08",
+"precision_days": 3,
+"source": "comment"
+},
+"1889659": {
+"est": "2020-08-12",
+"precision_days": 3,
+"source": "comment"
+},
+"1890489": {
+"est": "2020-08-12",
+"precision_days": 3,
+"source": "comment"
+},
+"1891188": {
+"est": "2020-08-15",
+"precision_days": 365,
+"source": "page"
+},
+"1892000": {
+"est": "2020-08-15",
+"precision_days": 3,
+"source": "comment"
+},
+"1897302": {
+"est": "2020-08-22",
+"precision_days": 3,
+"source": "comment"
+},
+"1897328": {
+"est": "2020-08-22",
+"precision_days": 3,
+"source": "comment"
+},
+"1898305": {
+"est": "2020-08-22",
+"precision_days": 3,
+"source": "comment"
+},
+"1899885": {
+"est": "2020-08-25",
+"precision_days": 3,
+"source": "comment"
+},
+"1899886": {
+"est": "2020-08-25",
+"precision_days": 3,
+"source": "comment"
+},
+"1901315": {
+"est": "2020-08-27",
+"precision_days": 3,
+"source": "comment"
+},
+"1902435": {
+"est": "2020-09-02",
+"precision_days": 3,
+"source": "comment"
+},
+"1902437": {
+"est": "2020-08-27",
+"precision_days": 3,
+"source": "comment"
+},
+"1905851": {
+"est": "2020-09-02",
+"precision_days": 3,
+"source": "comment"
+},
+"1905854": {
+"est": "2020-09-02",
+"precision_days": 365,
+"source": "page"
+},
+"1906445": {
+"est": "2020-09-02",
+"precision_days": 3,
+"source": "comment"
+},
+"1908923": {
+"est": "2020-09-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1909163": {
+"est": "2020-09-05",
+"precision_days": 365,
+"source": "page"
+},
+"1909287": {
+"est": "2020-09-05",
+"precision_days": 3,
+"source": "comment"
+},
+"1913674": {
+"est": "2020-09-11",
+"precision_days": 3,
+"source": "comment"
+},
+"1914978": {
+"est": "2020-09-14",
+"precision_days": 3,
+"source": "comment"
+},
+"1916157": {
+"est": "2020-09-17",
+"precision_days": 365,
+"source": "page"
+},
+"19172377": {
+"est": "2025-03-14",
+"precision_days": 3,
+"source": "comment"
+},
+"1918070": {
+"est": "2020-09-17",
+"precision_days": 3,
+"source": "comment"
+},
+"1928698": {
+"est": "2020-09-30",
+"precision_days": 3,
+"source": "comment"
+},
+"1931404": {
+"est": "2020-10-12",
+"precision_days": 365,
+"source": "page"
+},
+"1936658": {
+"est": "2020-10-12",
+"precision_days": 3,
+"source": "comment"
+},
+"1941837": {
+"est": "2020-10-16",
+"precision_days": 3,
+"source": "comment"
+},
+"1943031": {
+"est": "2020-10-18",
+"precision_days": 3,
+"source": "comment"
+},
+"1943273": {
+"est": "2020-10-18",
+"precision_days": 3,
+"source": "comment"
+},
+"1944346": {
+"est": "2020-10-22",
+"precision_days": 3,
+"source": "comment"
+},
+"1946288": {
+"est": "2020-10-22",
+"precision_days": 3,
+"source": "comment"
+},
+"1949812": {
+"est": "2020-10-29",
+"precision_days": 365,
+"source": "page"
+},
+"1950071": {
+"est": "2020-10-29",
+"precision_days": 365,
+"source": "page"
+},
+"1951207": {
+"est": "2020-10-29",
+"precision_days": 3,
+"source": "comment"
+},
+"1952224": {
+"est": "2020-10-30",
+"precision_days": 3,
+"source": "comment"
+},
+"1952574": {
+"est": "2020-10-30",
+"precision_days": 3,
+"source": "comment"
+},
+"1953230": {
+"est": "2020-11-02",
+"precision_days": 3,
+"source": "comment"
+},
+"1954597": {
+"est": "2020-11-04",
+"precision_days": 365,
+"source": "page"
+},
+"1955422": {
+"est": "2020-11-04",
+"precision_days": 3,
+"source": "comment"
+},
+"1955542": {
+"est": "2020-11-04",
+"precision_days": 365,
+"source": "page"
+},
+"1959090": {
+"est": "2020-11-09",
+"precision_days": 3,
+"source": "comment"
+},
+"1959338": {
+"est": "2020-11-09",
+"precision_days": 3,
+"source": "comment"
+},
+"1959612": {
+"est": "2020-11-09",
+"precision_days": 3,
+"source": "comment"
+},
+"1959637": {
+"est": "2020-11-09",
+"precision_days": 365,
+"source": "page"
+},
+"1960839": {
+"est": "2020-11-12",
+"precision_days": 3,
+"source": "comment"
+},
+"1961949": {
+"est": "2020-11-18",
+"precision_days": 365,
+"source": "page"
+},
+"1965989": {
+"est": "2020-11-18",
+"precision_days": 3,
+"source": "comment"
+},
+"1968183": {
+"est": "2020-11-29",
+"precision_days": 365,
+"source": "page"
+},
+"1969057": {
+"est": "2020-11-29",
+"precision_days": 3,
+"source": "comment"
+},
+"1975195": {
+"est": "2020-12-02",
+"precision_days": 3,
+"source": "comment"
+},
+"1976235": {
+"est": "2020-12-02",
+"precision_days": 3,
+"source": "comment"
+},
+"1978993": {
+"est": "2020-12-04",
+"precision_days": 3,
+"source": "comment"
+},
+"1982359": {
+"est": "2020-12-09",
+"precision_days": 3,
+"source": "comment"
+},
+"1983482": {
+"est": "2020-12-10",
+"precision_days": 3,
+"source": "comment"
+},
+"1984250": {
+"est": "2020-12-12",
+"precision_days": 3,
+"source": "comment"
+},
+"1984439": {
+"est": "2020-12-12",
+"precision_days": 365,
+"source": "page"
+},
+"1984987": {
+"est": "2020-12-12",
+"precision_days": 3,
+"source": "comment"
+},
+"1985688": {
+"est": "2020-12-14",
+"precision_days": 3,
+"source": "comment"
+},
+"1987490": {
+"est": "2020-12-16",
+"precision_days": 3,
+"source": "comment"
+},
+"1989113": {
+"est": "2020-12-31",
+"precision_days": 3,
+"source": "comment"
+},
+"1997483": {
+"est": "2021-01-04",
+"precision_days": 3,
+"source": "comment"
+},
+"1999147": {
+"est": "2021-01-04",
+"precision_days": 3,
+"source": "comment"
+},
+"2001653": {
+"est": "2021-01-06",
+"precision_days": 3,
+"source": "comment"
+},
+"2021447": {
+"est": "2021-02-17",
+"precision_days": 365,
+"source": "page"
+},
+"2026564": {
+"est": "2021-02-17",
+"precision_days": 365,
+"source": "page"
+},
+"2029117": {
+"est": "2021-02-17",
+"precision_days": 365,
+"source": "page"
+},
+"2033508": {
+"est": "2021-02-17",
+"precision_days": 3,
+"source": "comment"
+},
+"2037563": {
+"est": "2021-03-04",
+"precision_days": 365,
+"source": "page"
+},
+"2044002": {
+"est": "2021-03-04",
+"precision_days": 3,
+"source": "comment"
+},
+"2044105": {
+"est": "2021-03-16",
+"precision_days": 365,
+"source": "page"
+},
+"2092100": {
+"est": "2021-03-16",
+"precision_days": 3,
+"source": "comment"
+},
+"2093403": {
+"est": "2021-03-18",
+"precision_days": 3,
+"source": "comment"
+},
+"2094230": {
+"est": "2021-03-19",
+"precision_days": 365,
+"source": "page"
+},
+"2094554": {
+"est": "2021-03-19",
+"precision_days": 365,
+"source": "page"
+},
+"2094893": {
+"est": "2021-03-19",
+"precision_days": 365,
+"source": "page"
+},
+"2095801": {
+"est": "2021-03-19",
+"precision_days": 3,
+"source": "comment"
+},
+"2097500": {
+"est": "2021-03-26",
+"precision_days": 365,
+"source": "page"
+},
+"2100510": {
+"est": "2021-03-26",
+"precision_days": 3,
+"source": "comment"
+},
+"2101079": {
+"est": "2021-04-05",
+"precision_days": 3,
+"source": "comment"
+},
+"2101882": {
+"est": "2021-04-05",
+"precision_days": 365,
+"source": "page"
+},
+"2105037": {
+"est": "2021-04-05",
+"precision_days": 365,
+"source": "page"
+},
+"2107054": {
+"est": "2021-04-05",
+"precision_days": 3,
+"source": "comment"
+},
+"2115256": {
+"est": "2021-04-19",
+"precision_days": 3,
+"source": "comment"
+},
+"2116625": {
+"est": "2021-04-19",
+"precision_days": 3,
+"source": "comment"
+},
+"2124487": {
+"est": "2021-04-30",
+"precision_days": 3,
+"source": "comment"
+},
+"2125808": {
+"est": "2021-05-05",
+"precision_days": 3,
+"source": "comment"
+},
+"2126766": {
+"est": "2021-05-04",
+"precision_days": 365,
+"source": "page"
+},
+"2127069": {
+"est": "2021-05-04",
+"precision_days": 3,
+"source": "comment"
+},
+"2131978": {
+"est": "2021-05-11",
+"precision_days": 3,
+"source": "comment"
+},
+"2132989": {
+"est": "2021-05-15",
+"precision_days": 3,
+"source": "comment"
+},
+"2134492": {
+"est": "2021-05-16",
+"precision_days": 3,
+"source": "comment"
+},
+"2137344": {
+"est": "2021-05-18",
+"precision_days": 3,
+"source": "comment"
+},
+"2138931": {
+"est": "2021-05-21",
+"precision_days": 3,
+"source": "comment"
+},
+"2141707": {
+"est": "2021-05-25",
+"precision_days": 3,
+"source": "comment"
+},
+"2142365": {
+"est": "2021-05-27",
+"precision_days": 365,
+"source": "page"
+},
+"2143161": {
+"est": "2021-05-27",
+"precision_days": 3,
+"source": "comment"
+},
+"2143353": {
+"est": "2021-05-27",
+"precision_days": 3,
+"source": "comment"
+},
+"2143976": {
+"est": "2021-05-28",
+"precision_days": 3,
+"source": "comment"
+},
+"2143986": {
+"est": "2021-05-28",
+"precision_days": 3,
+"source": "comment"
+},
+"2145368": {
+"est": "2021-05-31",
+"precision_days": 3,
+"source": "comment"
+},
+"2146160": {
+"est": "2021-06-03",
+"precision_days": 3,
+"source": "comment"
+},
+"2146167": {
+"est": "2021-06-03",
+"precision_days": 365,
+"source": "page"
+},
+"2149309": {
+"est": "2021-06-15",
+"precision_days": 365,
+"source": "page"
+},
+"2150743": {
+"est": "2021-06-15",
+"precision_days": 365,
+"source": "page"
+},
+"2154159": {
+"est": "2021-06-15",
+"precision_days": 3,
+"source": "comment"
+},
+"2159616": {
+"est": "2021-06-29",
+"precision_days": 365,
+"source": "page"
+},
+"2161947": {
+"est": "2021-06-29",
+"precision_days": 3,
+"source": "comment"
+},
+"2165719": {
+"est": "2021-07-04",
+"precision_days": 365,
+"source": "page"
+},
+"2176532": {
+"est": "2021-07-26",
+"precision_days": 3,
+"source": "comment"
+},
+"2177144": {
+"est": "2021-07-27",
+"precision_days": 3,
+"source": "comment"
+},
+"2177619": {
+"est": "2021-07-28",
+"precision_days": 3,
+"source": "comment"
+},
+"2178443": {
+"est": "2021-07-31",
+"precision_days": 3,
+"source": "comment"
+},
+"2178875": {
+"est": "2021-08-09",
+"precision_days": 365,
+"source": "page"
+},
+"2179835": {
+"est": "2021-08-09",
+"precision_days": 3,
+"source": "comment"
+},
+"2180840": {
+"est": "2021-08-09",
+"precision_days": 3,
+"source": "comment"
+},
+"2182509": {
+"est": "2021-08-09",
+"precision_days": 365,
+"source": "page"
+},
+"2183039": {
+"est": "2021-08-09",
+"precision_days": 365,
+"source": "page"
+},
+"2184119": {
+"est": "2021-08-09",
+"precision_days": 3,
+"source": "comment"
+},
+"2185629": {
+"est": "2021-08-12",
+"precision_days": 3,
+"source": "comment"
+},
+"2191661": {
+"est": "2021-08-23",
+"precision_days": 3,
+"source": "comment"
+},
+"2194980": {
+"est": "2021-08-29",
+"precision_days": 3,
+"source": "comment"
+},
+"2202096": {
+"est": "2021-09-09",
+"precision_days": 365,
+"source": "page"
+},
+"2202098": {
+"est": "2021-09-11",
+"precision_days": 3,
+"source": "comment"
+},
+"2202099": {
+"est": "2021-09-09",
+"precision_days": 3,
+"source": "comment"
+},
+"2203179": {
+"est": "2021-09-13",
+"precision_days": 3,
+"source": "comment"
+},
+"2207249": {
+"est": "2021-09-19",
+"precision_days": 3,
+"source": "comment"
+},
+"2208205": {
+"est": "2021-09-20",
+"precision_days": 3,
+"source": "comment"
+},
+"2208472": {
+"est": "2021-09-29",
+"precision_days": 365,
+"source": "page"
+},
+"2212888": {
+"est": "2021-09-29",
+"precision_days": 3,
+"source": "comment"
+},
+"2213000": {
+"est": "2021-09-30",
+"precision_days": 3,
+"source": "comment"
+},
+"2214165": {
+"est": "2021-10-06",
+"precision_days": 3,
+"source": "comment"
+},
+"2227149": {
+"est": "2021-10-07",
+"precision_days": 3,
+"source": "comment"
+},
+"2228868": {
+"est": "2021-10-13",
+"precision_days": 365,
+"source": "page"
+},
+"2233565": {
+"est": "2021-10-13",
+"precision_days": 3,
+"source": "comment"
+},
+"2235881": {
+"est": "2021-10-15",
+"precision_days": 365,
+"source": "page"
+},
+"2236258": {
+"est": "2021-10-15",
+"precision_days": 3,
+"source": "comment"
+},
+"2243235": {
+"est": "2021-11-02",
+"precision_days": 365,
+"source": "page"
+},
+"2246547": {
+"est": "2021-11-02",
+"precision_days": 365,
+"source": "page"
+},
+"2246681": {
+"est": "2021-11-02",
+"precision_days": 365,
+"source": "page"
+},
+"2247401": {
+"est": "2021-11-02",
+"precision_days": 3,
+"source": "comment"
+},
+"2248054": {
+"est": "2021-11-02",
+"precision_days": 3,
+"source": "comment"
+},
+"2248541": {
+"est": "2021-11-03",
+"precision_days": 3,
+"source": "comment"
+},
+"2248700": {
+"est": "2021-11-04",
+"precision_days": 365,
+"source": "page"
+},
+"2249480": {
+"est": "2021-11-04",
+"precision_days": 3,
+"source": "comment"
+},
+"2250434": {
+"est": "2021-11-14",
+"precision_days": 365,
+"source": "page"
+},
+"2255313": {
+"est": "2021-11-14",
+"precision_days": 3,
+"source": "comment"
+},
+"2255452": {
+"est": "2021-11-20",
+"precision_days": 3,
+"source": "comment"
+},
+"2258352": {
+"est": "2021-11-20",
+"precision_days": 3,
+"source": "comment"
+},
+"2261353": {
+"est": "2021-11-26",
+"precision_days": 3,
+"source": "comment"
+},
+"2262137": {
+"est": "2021-12-01",
+"precision_days": 365,
+"source": "page"
+},
+"2262663": {
+"est": "2021-12-01",
+"precision_days": 3,
+"source": "comment"
+},
+"2266454": {
+"est": "2021-12-14",
+"precision_days": 365,
+"source": "page"
+},
+"2266669": {
+"est": "2021-12-14",
+"precision_days": 365,
+"source": "page"
+},
+"2270019": {
+"est": "2021-12-14",
+"precision_days": 365,
+"source": "page"
+},
+"2270480": {
+"est": "2021-12-14",
+"precision_days": 3,
+"source": "comment"
+},
+"2270778": {
+"est": "2021-12-14",
+"precision_days": 3,
+"source": "comment"
+},
+"2273308": {
+"est": "2021-12-19",
+"precision_days": 3,
+"source": "comment"
+},
+"2276243": {
+"est": "2021-12-28",
+"precision_days": 3,
+"source": "comment"
+},
+"2276849": {
+"est": "2021-12-28",
+"precision_days": 3,
+"source": "comment"
+},
+"2278593": {
+"est": "2021-12-31",
+"precision_days": 3,
+"source": "comment"
+},
+"2280672": {
+"est": "2022-01-07",
+"precision_days": 3,
+"source": "comment"
+},
+"2286272": {
+"est": "2022-01-13",
+"precision_days": 3,
+"source": "comment"
+},
+"2288463": {
+"est": "2022-01-16",
+"precision_days": 3,
+"source": "comment"
+},
+"2292498": {
+"est": "2022-01-21",
+"precision_days": 3,
+"source": "comment"
+},
+"2295088": {
+"est": "2022-01-28",
+"precision_days": 3,
+"source": "comment"
+},
+"2295739": {
+"est": "2022-01-28",
+"precision_days": 3,
+"source": "comment"
+},
+"2298556": {
+"est": "2022-02-02",
+"precision_days": 3,
+"source": "comment"
+},
+"2299580": {
+"est": "2022-02-03",
+"precision_days": 3,
+"source": "comment"
+},
+"2299618": {
+"est": "2022-02-04",
+"precision_days": 3,
+"source": "comment"
+},
+"2299833": {
+"est": "2022-02-04",
+"precision_days": 3,
+"source": "comment"
+},
+"2300194": {
+"est": "2022-02-04",
+"precision_days": 3,
+"source": "comment"
+},
+"2302862": {
+"est": "2022-02-09",
+"precision_days": 3,
+"source": "comment"
+},
+"2307566": {
+"est": "2022-02-17",
+"precision_days": 3,
+"source": "comment"
+},
+"2307859": {
+"est": "2022-02-18",
+"precision_days": 3,
+"source": "comment"
+},
+"2309163": {
+"est": "2022-02-21",
+"precision_days": 3,
+"source": "comment"
+},
+"2309164": {
+"est": "2022-02-21",
+"precision_days": 365,
+"source": "page"
+},
+"2309166": {
+"est": "2022-02-21",
+"precision_days": 3,
+"source": "comment"
+},
+"2309272": {
+"est": "2022-02-21",
+"precision_days": 365,
+"source": "page"
+},
+"2313576": {
+"est": "2022-02-28",
+"precision_days": 3,
+"source": "comment"
+},
+"2313791": {
+"est": "2022-03-03",
+"precision_days": 3,
+"source": "comment"
+},
+"2315955": {
+"est": "2022-03-03",
+"precision_days": 3,
+"source": "comment"
+},
+"2316963": {
+"est": "2022-03-05",
+"precision_days": 3,
+"source": "comment"
+},
+"2317486": {
+"est": "2022-03-07",
+"precision_days": 3,
+"source": "comment"
+},
+"2317487": {
+"est": "2022-03-07",
+"precision_days": 3,
+"source": "comment"
+},
+"2318077": {
+"est": "2022-03-08",
+"precision_days": 3,
+"source": "comment"
+},
+"2318084": {
+"est": "2022-03-08",
+"precision_days": 3,
+"source": "comment"
+},
+"2318620": {
+"est": "2022-03-08",
+"precision_days": 365,
+"source": "page"
+},
+"2319025": {
+"est": "2022-03-08",
+"precision_days": 3,
+"source": "comment"
+},
+"2319028": {
+"est": "2022-03-11",
+"precision_days": 365,
+"source": "page"
+},
+"2320429": {
+"est": "2022-03-11",
+"precision_days": 3,
+"source": "comment"
+},
+"2320805": {
+"est": "2022-03-12",
+"precision_days": 3,
+"source": "comment"
+},
+"2321423": {
+"est": "2022-03-13",
+"precision_days": 3,
+"source": "comment"
+},
+"2322864": {
+"est": "2022-03-17",
+"precision_days": 3,
+"source": "comment"
+},
+"2323638": {
+"est": "2022-03-21",
+"precision_days": 365,
+"source": "page"
+},
+"2324035": {
+"est": "2022-03-21",
+"precision_days": 365,
+"source": "page"
+},
+"2325127": {
+"est": "2022-03-21",
+"precision_days": 3,
+"source": "comment"
+},
+"2325353": {
+"est": "2022-03-21",
+"precision_days": 3,
+"source": "comment"
+},
+"2325356": {
+"est": "2022-03-22",
+"precision_days": 3,
+"source": "comment"
+},
+"2329414": {
+"est": "2022-03-29",
+"precision_days": 3,
+"source": "comment"
+},
+"2330120": {
+"est": "2022-04-13",
+"precision_days": 365,
+"source": "page"
+},
+"2333205": {
+"est": "2022-04-13",
+"precision_days": 3,
+"source": "comment"
+},
+"2336325": {
+"est": "2022-04-13",
+"precision_days": 3,
+"source": "comment"
+},
+"2339370": {
+"est": "2022-04-18",
+"precision_days": 3,
+"source": "comment"
+},
+"2341044": {
+"est": "2022-04-24",
+"precision_days": 365,
+"source": "page"
+},
+"2341643": {
+"est": "2022-04-24",
+"precision_days": 365,
+"source": "page"
+},
+"2341803": {
+"est": "2022-04-24",
+"precision_days": 3,
+"source": "comment"
+},
+"2341864": {
+"est": "2022-04-24",
+"precision_days": 365,
+"source": "page"
+},
+"2341957": {
+"est": "2022-04-24",
+"precision_days": 3,
+"source": "comment"
+},
+"2343238": {
+"est": "2022-05-04",
+"precision_days": 365,
+"source": "page"
+},
+"2345138": {
+"est": "2022-05-04",
+"precision_days": 365,
+"source": "page"
+},
+"2346661": {
+"est": "2022-05-04",
+"precision_days": 3,
+"source": "comment"
+},
+"2346736": {
+"est": "2022-05-04",
+"precision_days": 3,
+"source": "comment"
+},
+"2348152": {
+"est": "2022-05-06",
+"precision_days": 3,
+"source": "comment"
+},
+"2348521": {
+"est": "2022-05-07",
+"precision_days": 3,
+"source": "comment"
+},
+"2349222": {
+"est": "2022-05-09",
+"precision_days": 3,
+"source": "comment"
+},
+"2353422": {
+"est": "2022-05-18",
+"precision_days": 3,
+"source": "comment"
+},
+"2353773": {
+"est": "2022-05-18",
+"precision_days": 3,
+"source": "comment"
+},
+"2355064": {
+"est": "2022-05-24",
+"precision_days": 365,
+"source": "page"
+},
+"2356072": {
+"est": "2022-05-24",
+"precision_days": 3,
+"source": "comment"
+},
+"2358122": {
+"est": "2022-06-02",
+"precision_days": 3,
+"source": "comment"
+},
+"2361662": {
+"est": "2022-06-06",
+"precision_days": 3,
+"source": "comment"
+},
+"2361867": {
+"est": "2022-06-07",
+"precision_days": 3,
+"source": "comment"
+},
+"2363764": {
+"est": "2022-06-10",
+"precision_days": 3,
+"source": "comment"
+},
+"2365372": {
+"est": "2022-06-18",
+"precision_days": 3,
+"source": "comment"
+},
+"2365688": {
+"est": "2022-06-18",
+"precision_days": 3,
+"source": "comment"
+},
+"2367185": {
+"est": "2022-06-18",
+"precision_days": 3,
+"source": "comment"
+},
+"2369822": {
+"est": "2022-06-23",
+"precision_days": 3,
+"source": "comment"
+},
+"2370375": {
+"est": "2022-06-24",
+"precision_days": 3,
+"source": "comment"
+},
+"2371412": {
+"est": "2022-06-29",
+"precision_days": 3,
+"source": "comment"
+},
+"2373444": {
+"est": "2022-06-29",
+"precision_days": 3,
+"source": "comment"
+},
+"2374659": {
+"est": "2022-07-02",
+"precision_days": 3,
+"source": "comment"
+},
+"2376672": {
+"est": "2022-07-04",
+"precision_days": 3,
+"source": "comment"
+},
+"2379262": {
+"est": "2022-07-04",
+"precision_days": 365,
+"source": "page"
+},
+"2379365": {
+"est": "2022-07-11",
+"precision_days": 3,
+"source": "comment"
+},
+"2382129": {
+"est": "2022-07-19",
+"precision_days": 3,
+"source": "comment"
+},
+"2386136": {
+"est": "2022-07-26",
+"precision_days": 3,
+"source": "comment"
+},
+"2387345": {
+"est": "2022-07-26",
+"precision_days": 3,
+"source": "comment"
+},
+"2395287": {
+"est": "2022-08-10",
+"precision_days": 365,
+"source": "page"
+},
+"2396614": {
+"est": "2022-08-10",
+"precision_days": 3,
+"source": "comment"
+},
+"2403641": {
+"est": "2022-08-21",
+"precision_days": 3,
+"source": "comment"
+},
+"2404093": {
+"est": "2022-08-30",
+"precision_days": 365,
+"source": "page"
+},
+"2409470": {
+"est": "2022-08-30",
+"precision_days": 3,
+"source": "comment"
+},
+"2410864": {
+"est": "2022-09-01",
+"precision_days": 3,
+"source": "comment"
+},
+"2414270": {
+"est": "2022-09-07",
+"precision_days": 3,
+"source": "comment"
+},
+"2415743": {
+"est": "2022-09-28",
+"precision_days": 365,
+"source": "page"
+},
+"2415917": {
+"est": "2022-09-28",
+"precision_days": 365,
+"source": "page"
+},
+"2416458": {
+"est": "2022-09-28",
+"precision_days": 365,
+"source": "page"
+},
+"2429785": {
+"est": "2022-09-28",
+"precision_days": 365,
+"source": "page"
+},
+"2430103": {
+"est": "2022-09-28",
+"precision_days": 3,
+"source": "comment"
+},
+"2430390": {
+"est": "2022-09-28",
+"precision_days": 3,
+"source": "comment"
+},
+"2436806": {
+"est": "2022-10-10",
+"precision_days": 3,
+"source": "comment"
+},
+"2444079": {
+"est": "2022-10-12",
+"precision_days": 3,
+"source": "comment"
+},
+"2444847": {
+"est": "2022-10-15",
+"precision_days": 3,
+"source": "comment"
+},
+"2448175": {
+"est": "2022-11-02",
+"precision_days": 365,
+"source": "page"
+},
+"2467977": {
+"est": "2022-11-02",
+"precision_days": 3,
+"source": "comment"
+},
+"2468145": {
+"est": "2022-11-03",
+"precision_days": 365,
+"source": "page"
+},
+"2468250": {
+"est": "2022-11-03",
+"precision_days": 3,
+"source": "comment"
+},
+"2469795": {
+"est": "2022-11-05",
+"precision_days": 3,
+"source": "comment"
+},
+"2479646": {
+"est": "2022-11-16",
+"precision_days": 3,
+"source": "comment"
+},
+"2481637": {
+"est": "2022-11-30",
+"precision_days": 365,
+"source": "page"
+},
+"2495354": {
+"est": "2022-11-30",
+"precision_days": 365,
+"source": "page"
+},
+"2495621": {
+"est": "2022-11-30",
+"precision_days": 3,
+"source": "comment"
+},
+"2496092": {
+"est": "2022-12-01",
+"precision_days": 3,
+"source": "comment"
+},
+"2497981": {
+"est": "2022-12-05",
+"precision_days": 3,
+"source": "comment"
+},
+"2500591": {
+"est": "2022-12-07",
+"precision_days": 3,
+"source": "comment"
+},
+"2512972": {
+"est": "2022-12-11",
+"precision_days": 3,
+"source": "comment"
+},
+"2514774": {
+"est": "2022-12-17",
+"precision_days": 3,
+"source": "comment"
+},
+"2525419": {
+"est": "2022-12-21",
+"precision_days": 3,
+"source": "comment"
+},
+"2526520": {
+"est": "2022-12-24",
+"precision_days": 3,
+"source": "comment"
+},
+"2527802": {
+"est": "2022-12-24",
+"precision_days": 3,
+"source": "comment"
+},
+"2537954": {
+"est": "2023-01-01",
+"precision_days": 3,
+"source": "comment"
+},
+"2547879": {
+"est": "2023-01-05",
+"precision_days": 3,
+"source": "comment"
+},
+"2548504": {
+"est": "2023-01-05",
+"precision_days": 365,
+"source": "page"
+},
+"2552641": {
+"est": "2023-01-12",
+"precision_days": 3,
+"source": "comment"
+},
+"2558602": {
+"est": "2023-01-12",
+"precision_days": 3,
+"source": "comment"
+},
+"2576048": {
+"est": "2023-01-28",
+"precision_days": 3,
+"source": "comment"
+},
+"2581609": {
+"est": "2023-02-04",
+"precision_days": 365,
+"source": "page"
+},
+"2583264": {
+"est": "2023-02-04",
+"precision_days": 3,
+"source": "comment"
+},
+"2589097": {
+"est": "2023-02-11",
+"precision_days": 3,
+"source": "comment"
+},
+"2589588": {
+"est": "2023-02-11",
+"precision_days": 3,
+"source": "comment"
+},
+"2590065": {
+"est": "2023-02-11",
+"precision_days": 3,
+"source": "comment"
+},
+"2590433": {
+"est": "2023-02-13",
+"precision_days": 3,
+"source": "comment"
+},
+"2594000": {
+"est": "2023-03-09",
+"precision_days": 365,
+"source": "page"
+},
+"2612201": {
+"est": "2023-03-09",
+"precision_days": 3,
+"source": "comment"
+},
+"2614300": {
+"est": "2023-03-09",
+"precision_days": 3,
+"source": "comment"
+},
+"2614874": {
+"est": "2023-03-09",
+"precision_days": 365,
+"source": "page"
+},
+"2616420": {
+"est": "2023-03-09",
+"precision_days": 3,
+"source": "comment"
+},
+"2623045": {
+"est": "2023-03-16",
+"precision_days": 3,
+"source": "comment"
+},
+"2625109": {
+"est": "2023-03-18",
+"precision_days": 3,
+"source": "comment"
+},
+"2629496": {
+"est": "2023-03-21",
+"precision_days": 3,
+"source": "comment"
+},
+"2634549": {
+"est": "2023-03-28",
+"precision_days": 365,
+"source": "page"
+},
+"2636948": {
+"est": "2023-03-28",
+"precision_days": 3,
+"source": "comment"
+},
+"2637201": {
+"est": "2023-04-10",
+"precision_days": 365,
+"source": "page"
+},
+"2640324": {
+"est": "2023-04-10",
+"precision_days": 365,
+"source": "page"
+},
+"2640561": {
+"est": "2023-04-10",
+"precision_days": 365,
+"source": "page"
+},
+"2648605": {
+"est": "2023-04-10",
+"precision_days": 365,
+"source": "page"
+},
+"2649765": {
+"est": "2023-04-10",
+"precision_days": 3,
+"source": "comment"
+},
+"2650106": {
+"est": "2023-04-11",
+"precision_days": 3,
+"source": "comment"
+},
+"2650298": {
+"est": "2023-04-13",
+"precision_days": 365,
+"source": "page"
+},
+"2651038": {
+"est": "2023-04-13",
+"precision_days": 365,
+"source": "page"
+},
+"2651733": {
+"est": "2023-04-13",
+"precision_days": 3,
+"source": "comment"
+},
+"2652353": {
+"est": "2023-04-14",
+"precision_days": 3,
+"source": "comment"
+},
+"2657352": {
+"est": "2023-04-17",
+"precision_days": 3,
+"source": "comment"
+},
+"2657378": {
+"est": "2023-04-17",
+"precision_days": 3,
+"source": "comment"
+},
+"2661152": {
+"est": "2023-04-18",
+"precision_days": 3,
+"source": "comment"
+},
+"2662550": {
+"est": "2023-04-18",
+"precision_days": 3,
+"source": "comment"
+},
+"2672583": {
+"est": "2023-04-24",
+"precision_days": 3,
+"source": "comment"
+},
+"26830730": {
+"est": "2025-03-31",
+"precision_days": 365,
+"source": "page"
+},
+"268479": {
+"est": "2014-12-17",
+"precision_days": 3,
+"source": "comment"
+},
+"2699386": {
+"est": "2023-04-28",
+"precision_days": 365,
+"source": "page"
+},
+"27217948": {
+"est": "2025-03-31",
+"precision_days": 365,
+"source": "page"
+},
+"272581": {
+"est": "2014-12-22",
+"precision_days": 365,
+"source": "page"
+},
+"27279678": {
+"est": "2025-03-31",
+"precision_days": 365,
+"source": "page"
+},
+"2733851": {
+"est": "2023-04-28",
+"precision_days": 3,
+"source": "comment"
+},
+"273468": {
+"est": "2014-12-22",
+"precision_days": 3,
+"source": "comment"
+},
+"27498439": {
+"est": "2025-03-31",
+"precision_days": 3,
+"source": "comment"
+},
+"27530153": {
+"est": "2025-04-06",
+"precision_days": 365,
+"source": "page"
+},
+"27570495": {
+"est": "2025-04-06",
+"precision_days": 365,
+"source": "page"
+},
+"2758316": {
+"est": "2023-04-30",
+"precision_days": 365,
+"source": "page"
+},
+"27638583": {
+"est": "2025-04-06",
+"precision_days": 3,
+"source": "comment"
+},
+"2771554": {
+"est": "2023-04-30",
+"precision_days": 3,
+"source": "comment"
+},
+"277703": {
+"est": "2014-12-22",
+"precision_days": 3,
+"source": "comment"
+},
+"278230": {
+"est": "2014-12-22",
+"precision_days": 3,
+"source": "comment"
+},
+"278237": {
+"est": "2014-12-22",
+"precision_days": 3,
+"source": "comment"
+},
+"279461": {
+"est": "2014-12-22",
+"precision_days": 3,
+"source": "comment"
+},
+"2833243": {
+"est": "2023-05-07",
+"precision_days": 365,
+"source": "page"
+},
+"2833972": {
+"est": "2023-05-07",
+"precision_days": 3,
+"source": "comment"
+},
+"2834880": {
+"est": "2023-05-10",
+"precision_days": 3,
+"source": "comment"
+},
+"2835180": {
+"est": "2023-05-14",
+"precision_days": 365,
+"source": "page"
+},
+"2835566": {
+"est": "2023-05-14",
+"precision_days": 3,
+"source": "comment"
+},
+"2843579": {
+"est": "2023-05-19",
+"precision_days": 3,
+"source": "comment"
+},
+"2845503": {
+"est": "2023-05-23",
+"precision_days": 3,
+"source": "comment"
+},
+"2846360": {
+"est": "2023-06-04",
+"precision_days": 365,
+"source": "page"
+},
+"2852464": {
+"est": "2023-06-04",
+"precision_days": 365,
+"source": "page"
+},
+"2852478": {
+"est": "2023-06-04",
+"precision_days": 3,
+"source": "comment"
+},
+"285459": {
+"est": "2014-12-22",
+"precision_days": 365,
+"source": "page"
+},
+"2860622": {
+"est": "2023-06-26",
+"precision_days": 3,
+"source": "comment"
+},
+"2864872": {
+"est": "2023-07-04",
+"precision_days": 3,
+"source": "comment"
+},
+"2865380": {
+"est": "2023-07-04",
+"precision_days": 3,
+"source": "comment"
+},
+"2867438": {
+"est": "2023-07-04",
+"precision_days": 365,
+"source": "page"
+},
+"2867705": {
+"est": "2023-07-04",
+"precision_days": 365,
+"source": "page"
+},
+"2868164": {
+"est": "2023-07-04",
+"precision_days": 365,
+"source": "page"
+},
+"2868245": {
+"est": "2023-07-16",
+"precision_days": 3,
+"source": "comment"
+},
+"2868379": {
+"est": "2023-07-16",
+"precision_days": 3,
+"source": "comment"
+},
+"2869905": {
+"est": "2023-08-04",
+"precision_days": 3,
+"source": "comment"
+},
+"2872252": {
+"est": "2023-08-04",
+"precision_days": 3,
+"source": "comment"
+},
+"2872886": {
+"est": "2023-08-12",
+"precision_days": 365,
+"source": "page"
+},
+"2872981": {
+"est": "2023-08-12",
+"precision_days": 3,
+"source": "comment"
+},
+"287351": {
+"est": "2014-12-22",
+"precision_days": 3,
+"source": "comment"
+},
+"2875054": {
+"est": "2023-08-14",
+"precision_days": 3,
+"source": "comment"
+},
+"2875063": {
+"est": "2023-08-14",
+"precision_days": 365,
+"source": "page"
+},
+"2876305": {
+"est": "2023-08-14",
+"precision_days": 3,
+"source": "comment"
+},
+"2878190": {
+"est": "2023-08-22",
+"precision_days": 3,
+"source": "comment"
+},
+"287900": {
+"est": "2014-12-22",
+"precision_days": 3,
+"source": "comment"
+},
+"2879312": {
+"est": "2023-08-25",
+"precision_days": 365,
+"source": "page"
+},
+"2880569": {
+"est": "2023-08-25",
+"precision_days": 3,
+"source": "comment"
+},
+"2880775": {
+"est": "2023-08-25",
+"precision_days": 3,
+"source": "comment"
+},
+"2880933": {
+"est": "2023-08-26",
+"precision_days": 3,
+"source": "comment"
+},
+"2880934": {
+"est": "2023-08-26",
+"precision_days": 3,
+"source": "comment"
+},
+"2882449": {
+"est": "2023-09-01",
+"precision_days": 3,
+"source": "comment"
+},
+"2882678": {
+"est": "2023-09-01",
+"precision_days": 3,
+"source": "comment"
+},
+"2884352": {
+"est": "2023-09-08",
+"precision_days": 3,
+"source": "comment"
+},
+"288437": {
+"est": "2014-12-25",
+"precision_days": 3,
+"source": "comment"
+},
+"2889516": {
+"est": "2023-09-23",
+"precision_days": 3,
+"source": "comment"
+},
+"2890212": {
+"est": "2023-09-23",
+"precision_days": 3,
+"source": "comment"
+},
+"2891112": {
+"est": "2023-09-25",
+"precision_days": 3,
+"source": "comment"
+},
+"2891274": {
+"est": "2023-09-26",
+"precision_days": 3,
+"source": "comment"
+},
+"2891825": {
+"est": "2023-09-28",
+"precision_days": 3,
+"source": "comment"
+},
+"2893344": {
+"est": "2023-10-02",
+"precision_days": 365,
+"source": "page"
+},
+"2893580": {
+"est": "2023-10-02",
+"precision_days": 3,
+"source": "comment"
+},
+"2893800": {
+"est": "2023-10-02",
+"precision_days": 3,
+"source": "comment"
+},
+"2893945": {
+"est": "2023-10-12",
+"precision_days": 3,
+"source": "comment"
+},
+"2896208": {
+"est": "2023-10-12",
+"precision_days": 365,
+"source": "page"
+},
+"28976153": {
+"est": "2025-04-26",
+"precision_days": 365,
+"source": "page"
+},
+"2897648": {
+"est": "2023-10-12",
+"precision_days": 3,
+"source": "comment"
+},
+"2897754": {
+"est": "2023-10-13",
+"precision_days": 3,
+"source": "comment"
+},
+"2900734": {
+"est": "2023-10-20",
+"precision_days": 3,
+"source": "comment"
+},
+"2901382": {
+"est": "2023-10-22",
+"precision_days": 3,
+"source": "comment"
+},
+"290450": {
+"est": "2014-12-25",
+"precision_days": 3,
+"source": "comment"
+},
+"2904557": {
+"est": "2023-10-30",
+"precision_days": 3,
+"source": "comment"
+},
+"2905821": {
+"est": "2023-11-03",
+"precision_days": 3,
+"source": "comment"
+},
+"2906955": {
+"est": "2023-11-03",
+"precision_days": 365,
+"source": "page"
+},
+"2907926": {
+"est": "2023-11-03",
+"precision_days": 3,
+"source": "comment"
+},
+"2908971": {
+"est": "2023-11-04",
+"precision_days": 3,
+"source": "comment"
+},
+"2911228": {
+"est": "2023-11-13",
+"precision_days": 365,
+"source": "page"
+},
+"291536": {
+"est": "2014-12-27",
+"precision_days": 3,
+"source": "comment"
+},
+"2915396": {
+"est": "2023-11-13",
+"precision_days": 3,
+"source": "comment"
+},
+"2919738": {
+"est": "2023-11-17",
+"precision_days": 3,
+"source": "comment"
+},
+"2920275": {
+"est": "2023-11-23",
+"precision_days": 3,
+"source": "comment"
+},
+"292088": {
+"est": "2014-12-28",
+"precision_days": 3,
+"source": "comment"
+},
+"2922170": {
+"est": "2023-11-23",
+"precision_days": 3,
+"source": "comment"
+},
+"2926183": {
+"est": "2023-11-28",
+"precision_days": 3,
+"source": "comment"
+},
+"2926371": {
+"est": "2023-11-28",
+"precision_days": 3,
+"source": "comment"
+},
+"292676": {
+"est": "2014-12-28",
+"precision_days": 3,
+"source": "comment"
+},
+"2927119": {
+"est": "2023-11-30",
+"precision_days": 3,
+"source": "comment"
+},
+"2927245": {
+"est": "2023-11-30",
+"precision_days": 3,
+"source": "comment"
+},
+"2928631": {
+"est": "2023-12-06",
+"precision_days": 365,
+"source": "page"
+},
+"292888": {
+"est": "2014-12-28",
+"precision_days": 3,
+"source": "comment"
+},
+"2929702": {
+"est": "2023-12-06",
+"precision_days": 3,
+"source": "comment"
+},
+"2930898": {
+"est": "2023-12-08",
+"precision_days": 3,
+"source": "comment"
+},
+"2931591": {
+"est": "2023-12-14",
+"precision_days": 3,
+"source": "comment"
+},
+"2936713": {
+"est": "2023-12-21",
+"precision_days": 3,
+"source": "comment"
+},
+"2941787": {
+"est": "2024-01-11",
+"precision_days": 3,
+"source": "comment"
+},
+"2945200": {
+"est": "2024-01-11",
+"precision_days": 3,
+"source": "comment"
+},
+"2945639": {
+"est": "2024-01-16",
+"precision_days": 365,
+"source": "page"
+},
+"2946897": {
+"est": "2024-01-16",
+"precision_days": 3,
+"source": "comment"
+},
+"2947221": {
+"est": "2024-01-16",
+"precision_days": 3,
+"source": "comment"
+},
+"2947734": {
+"est": "2024-01-19",
+"precision_days": 3,
+"source": "comment"
+},
+"2948102": {
+"est": "2024-01-20",
+"precision_days": 3,
+"source": "comment"
+},
+"2948234": {
+"est": "2024-01-21",
+"precision_days": 3,
+"source": "comment"
+},
+"2948715": {
+"est": "2024-01-22",
+"precision_days": 3,
+"source": "comment"
+},
+"2949413": {
+"est": "2024-01-25",
+"precision_days": 3,
+"source": "comment"
+},
+"2949614": {
+"est": "2024-01-28",
+"precision_days": 365,
+"source": "page"
+},
+"2950063": {
+"est": "2024-01-28",
+"precision_days": 3,
+"source": "comment"
+},
+"2951054": {
+"est": "2024-01-31",
+"precision_days": 3,
+"source": "comment"
+},
+"2953738": {
+"est": "2024-02-05",
+"precision_days": 365,
+"source": "page"
+},
+"2953749": {
+"est": "2024-02-05",
+"precision_days": 3,
+"source": "comment"
+},
+"2953893": {
+"est": "2024-02-05",
+"precision_days": 3,
+"source": "comment"
+},
+"2956110": {
+"est": "2024-02-07",
+"precision_days": 3,
+"source": "comment"
+},
+"2957168": {
+"est": "2024-02-07",
+"precision_days": 365,
+"source": "page"
+},
+"2957381": {
+"est": "2024-02-08",
+"precision_days": 3,
+"source": "comment"
+},
+"2957734": {
+"est": "2024-02-08",
+"precision_days": 3,
+"source": "comment"
+},
+"2961987": {
+"est": "2024-02-23",
+"precision_days": 365,
+"source": "page"
+},
+"2963792": {
+"est": "2024-02-23",
+"precision_days": 365,
+"source": "page"
+},
+"2964355": {
+"est": "2024-02-23",
+"precision_days": 3,
+"source": "comment"
+},
+"2964983": {
+"est": "2024-02-26",
+"precision_days": 3,
+"source": "comment"
+},
+"2965399": {
+"est": "2024-02-26",
+"precision_days": 3,
+"source": "comment"
+},
+"2965794": {
+"est": "2024-02-28",
+"precision_days": 3,
+"source": "comment"
+},
+"2967996": {
+"est": "2024-03-05",
+"precision_days": 365,
+"source": "page"
+},
+"2968194": {
+"est": "2024-03-05",
+"precision_days": 3,
+"source": "comment"
+},
+"296932": {
+"est": "2015-01-02",
+"precision_days": 365,
+"source": "page"
+},
+"296934": {
+"est": "2015-01-02",
+"precision_days": 3,
+"source": "comment"
+},
+"2969857": {
+"est": "2024-03-09",
+"precision_days": 3,
+"source": "comment"
+},
+"2971250": {
+"est": "2024-03-16",
+"precision_days": 365,
+"source": "page"
+},
+"2971439": {
+"est": "2024-03-16",
+"precision_days": 365,
+"source": "page"
+},
+"2971440": {
+"est": "2024-03-16",
+"precision_days": 3,
+"source": "comment"
+},
+"2972215": {
+"est": "2024-03-16",
+"precision_days": 3,
+"source": "comment"
+},
+"297227": {
+"est": "2015-01-02",
+"precision_days": 3,
+"source": "comment"
+},
+"2972716": {
+"est": "2024-03-16",
+"precision_days": 3,
+"source": "comment"
+},
+"2972774": {
+"est": "2024-03-16",
+"precision_days": 3,
+"source": "comment"
+},
+"2973496": {
+"est": "2024-03-18",
+"precision_days": 3,
+"source": "comment"
+},
+"2975977": {
+"est": "2024-03-26",
+"precision_days": 3,
+"source": "comment"
+},
+"2977227": {
+"est": "2024-03-26",
+"precision_days": 3,
+"source": "comment"
+},
+"29780248": {
+"est": "2025-04-26",
+"precision_days": 365,
+"source": "page"
+},
+"2979091": {
+"est": "2024-03-31",
+"precision_days": 3,
+"source": "comment"
+},
+"297961": {
+"est": "2015-01-05",
+"precision_days": 3,
+"source": "comment"
+},
+"2979820": {
+"est": "2024-04-02",
+"precision_days": 3,
+"source": "comment"
+},
+"2979936": {
+"est": "2024-04-05",
+"precision_days": 3,
+"source": "comment"
+},
+"2982292": {
+"est": "2024-04-09",
+"precision_days": 3,
+"source": "comment"
+},
+"2983311": {
+"est": "2024-04-11",
+"precision_days": 3,
+"source": "comment"
+},
+"2983442": {
+"est": "2024-04-11",
+"precision_days": 3,
+"source": "comment"
+},
+"2984473": {
+"est": "2024-04-23",
+"precision_days": 365,
+"source": "page"
+},
+"2986703": {
+"est": "2024-04-23",
+"precision_days": 3,
+"source": "comment"
+},
+"2987677": {
+"est": "2024-04-24",
+"precision_days": 3,
+"source": "comment"
+},
+"2987764": {
+"est": "2024-04-25",
+"precision_days": 3,
+"source": "comment"
+},
+"2988879": {
+"est": "2024-04-30",
+"precision_days": 3,
+"source": "comment"
+},
+"2989673": {
+"est": "2024-05-01",
+"precision_days": 3,
+"source": "comment"
+},
+"2989863": {
+"est": "2024-05-05",
+"precision_days": 3,
+"source": "comment"
+},
+"2990876": {
+"est": "2024-05-05",
+"precision_days": 3,
+"source": "comment"
+},
+"29967624": {
+"est": "2025-04-26",
+"precision_days": 3,
+"source": "comment"
+},
+"3017133": {
+"est": "2024-05-13",
+"precision_days": 3,
+"source": "comment"
+},
+"302607": {
+"est": "2015-01-10",
+"precision_days": 3,
+"source": "comment"
+},
+"304158": {
+"est": "2015-01-10",
+"precision_days": 3,
+"source": "comment"
+},
+"304327": {
+"est": "2015-01-10",
+"precision_days": 3,
+"source": "comment"
+},
+"306533": {
+"est": "2015-01-10",
+"precision_days": 3,
+"source": "comment"
+},
+"307012": {
+"est": "2015-01-17",
+"precision_days": 365,
+"source": "page"
+},
+"307235": {
+"est": "2015-01-17",
+"precision_days": 3,
+"source": "comment"
+},
+"3092181": {
+"est": "2024-06-10",
+"precision_days": 365,
+"source": "page"
+},
+"3104697": {
+"est": "2024-06-10",
+"precision_days": 3,
+"source": "comment"
+},
+"3116398": {
+"est": "2024-06-10",
+"precision_days": 365,
+"source": "page"
+},
+"3120125": {
+"est": "2024-06-10",
+"precision_days": 3,
+"source": "comment"
+},
+"3122858": {
+"est": "2024-06-14",
+"precision_days": 3,
+"source": "comment"
+},
+"313344": {
+"est": "2015-01-17",
+"precision_days": 365,
+"source": "page"
+},
+"3133942": {
+"est": "2024-06-23",
+"precision_days": 3,
+"source": "comment"
+},
+"31349117": {
+"est": "2025-05-17",
+"precision_days": 365,
+"source": "page"
+},
+"31364365": {
+"est": "2025-05-17",
+"precision_days": 3,
+"source": "comment"
+},
+"31380939": {
+"est": "2025-05-17",
+"precision_days": 3,
+"source": "comment"
+},
+"31381124": {
+"est": "2025-05-17",
+"precision_days": 3,
+"source": "comment"
+},
+"31381125": {
+"est": "2025-05-17",
+"precision_days": 3,
+"source": "comment"
+},
+"31381137": {
+"est": "2025-05-30",
+"precision_days": 365,
+"source": "page"
+},
+"31387116": {
+"est": "2025-05-30",
+"precision_days": 365,
+"source": "page"
+},
+"3138928": {
+"est": "2024-06-28",
+"precision_days": 3,
+"source": "comment"
+},
+"31395270": {
+"est": "2025-05-30",
+"precision_days": 365,
+"source": "page"
+},
+"31395271": {
+"est": "2025-05-30",
+"precision_days": 3,
+"source": "comment"
+},
+"31395764": {
+"est": "2025-05-30",
+"precision_days": 3,
+"source": "comment"
+},
+"31395857": {
+"est": "2025-05-31",
+"precision_days": 3,
+"source": "comment"
+},
+"31405276": {
+"est": "2025-06-08",
+"precision_days": 365,
+"source": "page"
+},
+"31405277": {
+"est": "2025-06-08",
+"precision_days": 3,
+"source": "comment"
+},
+"31406356": {
+"est": "2025-06-17",
+"precision_days": 365,
+"source": "page"
+},
+"31406542": {
+"est": "2025-06-17",
+"precision_days": 3,
+"source": "comment"
+},
+"31406841": {
+"est": "2025-06-21",
+"precision_days": 3,
+"source": "comment"
+},
+"31406842": {
+"est": "2025-06-21",
+"precision_days": 365,
+"source": "page"
+},
+"31406941": {
+"est": "2025-06-24",
+"precision_days": 365,
+"source": "page"
+},
+"31407206": {
+"est": "2025-06-24",
+"precision_days": 3,
+"source": "comment"
+},
+"31407207": {
+"est": "2025-06-24",
+"precision_days": 3,
+"source": "comment"
+},
+"31407536": {
+"est": "2025-06-27",
+"precision_days": 3,
+"source": "comment"
+},
+"31407816": {
+"est": "2025-06-29",
+"precision_days": 3,
+"source": "comment"
+},
+"31408222": {
+"est": "2025-07-04",
+"precision_days": 3,
+"source": "comment"
+},
+"31409044": {
+"est": "2025-07-25",
+"precision_days": 30,
+"source": "page"
+},
+"31409522": {
+"est": "2025-07-25",
+"precision_days": 30,
+"source": "page"
+},
+"31409889": {
+"est": "2025-07-25",
+"precision_days": 30,
+"source": "page"
+},
+"31410366": {
+"est": "2025-07-25",
+"precision_days": 30,
+"source": "page"
+},
+"31410962": {
+"est": "2025-07-25",
+"precision_days": 30,
+"source": "page"
+},
+"31411039": {
+"est": "2025-07-25",
+"precision_days": 3,
+"source": "comment"
+},
+"31411621": {
+"est": "2025-08-07",
+"precision_days": 30,
+"source": "page"
+},
+"31412110": {
+"est": "2025-08-14",
+"precision_days": 3,
+"source": "comment"
+},
+"31412660": {
+"est": "2025-08-14",
+"precision_days": 30,
+"source": "page"
+},
+"31412684": {
+"est": "2025-08-14",
+"precision_days": 30,
+"source": "page"
+},
+"31412685": {
+"est": "2025-08-14",
+"precision_days": 30,
+"source": "page"
+},
+"31413234": {
+"est": "2025-08-14",
+"precision_days": 3,
+"source": "comment"
+},
+"31413413": {
+"est": "2025-08-16",
+"precision_days": 30,
+"source": "page"
+},
+"31413414": {
+"est": "2025-08-16",
+"precision_days": 3,
+"source": "comment"
+},
+"31413590": {
+"est": "2025-08-19",
+"precision_days": 3,
+"source": "comment"
+},
+"31413773": {
+"est": "2025-08-20",
+"precision_days": 3,
+"source": "comment"
+},
+"31413840": {
+"est": "2025-09-03",
+"precision_days": 30,
+"source": "page"
+},
+"31413841": {
+"est": "2025-09-03",
+"precision_days": 30,
+"source": "page"
+},
+"3141418": {
+"est": "2024-07-01",
+"precision_days": 3,
+"source": "comment"
+},
+"31415273": {
+"est": "2025-09-03",
+"precision_days": 3,
+"source": "comment"
+},
+"31415472": {
+"est": "2025-09-06",
+"precision_days": 30,
+"source": "page"
+},
+"31416518": {
+"est": "2025-09-21",
+"precision_days": 30,
+"source": "page"
+},
+"31417280": {
+"est": "2025-09-21",
+"precision_days": 3,
+"source": "comment"
+},
+"314185": {
+"est": "2015-01-17",
+"precision_days": 3,
+"source": "comment"
+},
+"31418532": {
+"est": "2025-10-06",
+"precision_days": 30,
+"source": "page"
+},
+"31418669": {
+"est": "2025-10-08",
+"precision_days": 3,
+"source": "comment"
+},
+"31419038": {
+"est": "2025-10-08",
+"precision_days": 3,
+"source": "comment"
+},
+"31419374": {
+"est": "2025-10-21",
+"precision_days": 30,
+"source": "page"
+},
+"31419422": {
+"est": "2025-10-21",
+"precision_days": 30,
+"source": "page"
+},
+"31420460": {
+"est": "2025-10-21",
+"precision_days": 3,
+"source": "comment"
+},
+"31420597": {
+"est": "2025-10-31",
+"precision_days": 30,
+"source": "page"
+},
+"31421047": {
+"est": "2025-10-31",
+"precision_days": 30,
+"source": "page"
+},
+"31421087": {
+"est": "2025-10-31",
+"precision_days": 30,
+"source": "page"
+},
+"31421097": {
+"est": "2025-10-31",
+"precision_days": 3,
+"source": "comment"
+},
+"31421583": {
+"est": "2025-10-31",
+"precision_days": 3,
+"source": "comment"
+},
+"31421798": {
+"est": "2025-11-02",
+"precision_days": 3,
+"source": "comment"
+},
+"31422086": {
+"est": "2025-11-06",
+"precision_days": 30,
+"source": "page"
+},
+"31422201": {
+"est": "2025-11-06",
+"precision_days": 3,
+"source": "comment"
+},
+"31422326": {
+"est": "2025-11-07",
+"precision_days": 3,
+"source": "comment"
+},
+"31422559": {
+"est": "2025-11-09",
+"precision_days": 3,
+"source": "comment"
+},
+"31424662": {
+"est": "2025-12-01",
+"precision_days": 3,
+"source": "comment"
+},
+"31425266": {
+"est": "2025-12-06",
+"precision_days": 3,
+"source": "comment"
+},
+"31425396": {
+"est": "2025-12-13",
+"precision_days": 3,
+"source": "comment"
+},
+"31429204": {
+"est": "2026-01-04",
+"precision_days": 30,
+"source": "page"
+},
+"31430554": {
+"est": "2026-01-04",
+"precision_days": 30,
+"source": "page"
+},
+"31432255": {
+"est": "2026-01-11",
+"precision_days": 3,
+"source": "comment"
+},
+"31432311": {
+"est": "2026-01-30",
+"precision_days": 30,
+"source": "page"
+},
+"31432411": {
+"est": "2026-01-30",
+"precision_days": 30,
+"source": "page"
+},
+"31432728": {
+"est": "2026-01-30",
+"precision_days": 30,
+"source": "page"
+},
+"31433779": {
+"est": "2026-01-30",
+"precision_days": 30,
+"source": "page"
+},
+"31433780": {
+"est": "2026-01-30",
+"precision_days": 30,
+"source": "page"
+},
+"31435481": {
+"est": "2026-01-30",
+"precision_days": 3,
+"source": "comment"
+},
+"31440378": {
+"est": "2026-03-05",
+"precision_days": 30,
+"source": "page"
+},
+"31440418": {
+"est": "2026-03-05",
+"precision_days": 30,
+"source": "page"
+},
+"31441237": {
+"est": "2026-03-05",
+"precision_days": 30,
+"source": "page"
+},
+"31442332": {
+"est": "2026-03-05",
+"precision_days": 30,
+"source": "page"
+},
+"31442586": {
+"est": "2026-03-08",
+"precision_days": 30,
+"source": "page"
+},
+"31442619": {
+"est": "2026-03-08",
+"precision_days": 30,
+"source": "page"
+},
+"31442621": {
+"est": "2026-03-08",
+"precision_days": 3,
+"source": "comment"
+},
+"31443380": {
+"est": "2026-03-16",
+"precision_days": 3,
+"source": "comment"
+},
+"31443690": {
+"est": "2026-03-19",
+"precision_days": 3,
+"source": "comment"
+},
+"31444503": {
+"est": "2026-04-04",
+"precision_days": 30,
+"source": "page"
+},
+"31444882": {
+"est": "2026-04-04",
+"precision_days": 30,
+"source": "page"
+},
+"31444883": {
+"est": "2026-04-05",
+"precision_days": 30,
+"source": "page"
+},
+"31444942": {
+"est": "2026-04-05",
+"precision_days": 3,
+"source": "comment"
+},
+"31445483": {
+"est": "2026-04-12",
+"precision_days": 3,
+"source": "comment"
+},
+"31445821": {
+"est": "2026-04-16",
+"precision_days": 3,
+"source": "comment"
+},
+"31445982": {
+"est": "2026-05-02",
+"precision_days": 30,
+"source": "page"
+},
+"31445983": {
+"est": "2026-05-02",
+"precision_days": 30,
+"source": "page"
+},
+"31446106": {
+"est": "2026-05-02",
+"precision_days": 30,
+"source": "page"
+},
+"31446482": {
+"est": "2026-05-02",
+"precision_days": 30,
+"source": "page"
+},
+"31447038": {
+"est": "2026-05-02",
+"precision_days": 3,
+"source": "comment"
+},
+"31447171": {
+"est": "2026-05-05",
+"precision_days": 1,
+"source": "page"
+},
+"31447295": {
+"est": "2026-05-05",
+"precision_days": 3,
+"source": "comment"
+},
+"31447746": {
+"est": "2026-05-12",
+"precision_days": 3,
+"source": "comment"
+},
+"31448099": {
+"est": "2026-05-16",
+"precision_days": 1,
+"source": "page"
+},
+"31448220": {
+"est": "2026-05-16",
+"precision_days": 3,
+"source": "comment"
+},
+"31448508": {
+"est": "2026-05-20",
+"precision_days": 1,
+"source": "page"
+},
+"31448603": {
+"est": "2026-05-21",
+"precision_days": 1,
+"source": "page"
+},
+"31448702": {
+"est": "2026-05-21",
+"precision_days": 3,
+"source": "comment"
+},
+"31448893": {
+"est": "2026-05-25",
+"precision_days": 1,
+"source": "page"
+},
+"31449091": {
+"est": "2026-05-27",
+"precision_days": 3,
+"source": "comment"
+},
+"31449319": {
+"est": "2026-05-30",
+"precision_days": 3,
+"source": "comment"
+},
+"31449508": {
+"est": "2026-06-01",
+"precision_days": 3,
+"source": "comment"
+},
+"31449666": {
+"est": "2026-06-04",
+"precision_days": 1,
+"source": "page"
+},
+"31449993": {
+"est": "2026-06-09",
+"precision_days": 3,
+"source": "comment"
+},
+"31450110": {
+"est": "2026-06-10",
+"precision_days": 1,
+"source": "page"
+},
+"31450833": {
+"est": "2026-06-20",
+"precision_days": 1,
+"source": "page"
+},
+"31450892": {
+"est": "2026-06-20",
+"precision_days": 1,
+"source": "page"
+},
+"31450915": {
+"est": "2026-06-20",
+"precision_days": 1,
+"source": "page"
+},
+"31450917": {
+"est": "2026-06-20",
+"precision_days": 3,
+"source": "comment"
+},
+"31451058": {
+"est": "2026-06-23",
+"precision_days": 1,
+"source": "page"
+},
+"31451328": {
+"est": "2026-06-26",
+"precision_days": 1,
+"source": "page"
+},
+"31451444": {
+"est": "2026-06-27",
+"precision_days": 1,
+"source": "page"
+},
+"31451625": {
+"est": "2026-06-30",
+"precision_days": 3,
+"source": "comment"
+},
+"314867": {
+"est": "2015-01-19",
+"precision_days": 365,
+"source": "page"
+},
+"3148763": {
+"est": "2024-07-03",
+"precision_days": 3,
+"source": "comment"
+},
+"3152418": {
+"est": "2024-07-03",
+"precision_days": 365,
+"source": "page"
+},
+"3153787": {
+"est": "2024-07-03",
+"precision_days": 365,
+"source": "page"
+},
+"3156905": {
+"est": "2024-07-03",
+"precision_days": 3,
+"source": "comment"
+},
+"315872": {
+"est": "2015-01-19",
+"precision_days": 3,
+"source": "comment"
+},
+"3161418": {
+"est": "2024-07-03",
+"precision_days": 365,
+"source": "page"
+},
+"316641": {
+"est": "2015-01-19",
+"precision_days": 3,
+"source": "comment"
+},
+"3172628": {
+"est": "2024-07-16",
+"precision_days": 365,
+"source": "page"
+},
+"3178256": {
+"est": "2024-07-16",
+"precision_days": 3,
+"source": "comment"
+},
+"3184309": {
+"est": "2024-07-30",
+"precision_days": 365,
+"source": "page"
+},
+"3186299": {
+"est": "2024-07-30",
+"precision_days": 3,
+"source": "comment"
+},
+"3197546": {
+"est": "2024-07-30",
+"precision_days": 3,
+"source": "comment"
+},
+"3197547": {
+"est": "2024-07-30",
+"precision_days": 3,
+"source": "comment"
+},
+"3211804": {
+"est": "2024-08-14",
+"precision_days": 3,
+"source": "comment"
+},
+"3221615": {
+"est": "2024-08-17",
+"precision_days": 365,
+"source": "page"
+},
+"3222921": {
+"est": "2024-08-17",
+"precision_days": 3,
+"source": "comment"
+},
+"323318": {
+"est": "2015-02-08",
+"precision_days": 365,
+"source": "page"
+},
+"3250336": {
+"est": "2024-09-04",
+"precision_days": 3,
+"source": "comment"
+},
+"3250489": {
+"est": "2024-09-05",
+"precision_days": 3,
+"source": "comment"
+},
+"3253483": {
+"est": "2024-09-15",
+"precision_days": 3,
+"source": "comment"
+},
+"3254067": {
+"est": "2024-09-15",
+"precision_days": 3,
+"source": "comment"
+},
+"3256093": {
+"est": "2024-09-24",
+"precision_days": 3,
+"source": "comment"
+},
+"3257939": {
+"est": "2024-10-17",
+"precision_days": 365,
+"source": "page"
+},
+"3258250": {
+"est": "2024-10-17",
+"precision_days": 365,
+"source": "page"
+},
+"3261155": {
+"est": "2024-10-17",
+"precision_days": 365,
+"source": "page"
+},
+"3261562": {
+"est": "2024-10-17",
+"precision_days": 3,
+"source": "comment"
+},
+"3262130": {
+"est": "2024-11-02",
+"precision_days": 365,
+"source": "page"
+},
+"3262271": {
+"est": "2024-11-02",
+"precision_days": 365,
+"source": "page"
+},
+"3262702": {
+"est": "2024-11-02",
+"precision_days": 3,
+"source": "comment"
+},
+"3275118": {
+"est": "2024-11-02",
+"precision_days": 3,
+"source": "comment"
+},
+"3276892": {
+"est": "2024-11-15",
+"precision_days": 3,
+"source": "comment"
+},
+"3277713": {
+"est": "2024-11-15",
+"precision_days": 3,
+"source": "comment"
+},
+"3279983": {
+"est": "2024-11-15",
+"precision_days": 365,
+"source": "page"
+},
+"3283136": {
+"est": "2024-11-15",
+"precision_days": 3,
+"source": "comment"
+},
+"3283300": {
+"est": "2024-11-18",
+"precision_days": 3,
+"source": "comment"
+},
+"3295705": {
+"est": "2024-12-02",
+"precision_days": 365,
+"source": "page"
+},
+"3320524": {
+"est": "2024-12-02",
+"precision_days": 3,
+"source": "comment"
+},
+"3322090": {
+"est": "2024-12-09",
+"precision_days": 3,
+"source": "comment"
+},
+"3322157": {
+"est": "2024-12-17",
+"precision_days": 365,
+"source": "page"
+},
+"3326051": {
+"est": "2024-12-17",
+"precision_days": 3,
+"source": "comment"
+},
+"3343770": {
+"est": "2024-12-24",
+"precision_days": 365,
+"source": "page"
+},
+"3362098": {
+"est": "2024-12-24",
+"precision_days": 3,
+"source": "comment"
+},
+"339873": {
+"est": "2015-02-08",
+"precision_days": 3,
+"source": "comment"
+},
+"340748": {
+"est": "2015-02-08",
+"precision_days": 3,
+"source": "comment"
+},
+"341744": {
+"est": "2015-02-08",
+"precision_days": 3,
+"source": "comment"
+},
+"3445382": {
+"est": "2024-12-27",
+"precision_days": 3,
+"source": "comment"
+},
+"345454": {
+"est": "2015-02-14",
+"precision_days": 365,
+"source": "page"
+},
+"347704": {
+"est": "2015-02-14",
+"precision_days": 3,
+"source": "comment"
+},
+"350787": {
+"est": "2015-02-14",
+"precision_days": 3,
+"source": "comment"
+},
+"352334": {
+"est": "2015-02-19",
+"precision_days": 3,
+"source": "comment"
+},
+"353034": {
+"est": "2015-02-17",
+"precision_days": 3,
+"source": "comment"
+},
+"355462": {
+"est": "2015-02-20",
+"precision_days": 3,
+"source": "comment"
+},
+"357194": {
+"est": "2015-02-21",
+"precision_days": 3,
+"source": "comment"
+},
+"357608": {
+"est": "2015-02-21",
+"precision_days": 3,
+"source": "comment"
+},
+"357723": {
+"est": "2015-02-21",
+"precision_days": 3,
+"source": "comment"
+},
+"359165": {
+"est": "2015-02-23",
+"precision_days": 3,
+"source": "comment"
+},
+"359537": {
+"est": "2015-02-23",
+"precision_days": 3,
+"source": "comment"
+},
+"361201": {
+"est": "2015-02-24",
+"precision_days": 365,
+"source": "page"
+},
+"361373": {
+"est": "2015-02-24",
+"precision_days": 3,
+"source": "comment"
+},
+"364046": {
+"est": "2015-03-06",
+"precision_days": 3,
+"source": "comment"
+},
+"364970": {
+"est": "2015-03-09",
+"precision_days": 365,
+"source": "page"
+},
+"373061": {
+"est": "2015-03-09",
+"precision_days": 3,
+"source": "comment"
+},
+"373643": {
+"est": "2015-03-12",
+"precision_days": 3,
+"source": "comment"
+},
+"377392": {
+"est": "2015-03-12",
+"precision_days": 3,
+"source": "comment"
+},
+"377626": {
+"est": "2015-03-12",
+"precision_days": 3,
+"source": "comment"
+},
+"379592": {
+"est": "2015-03-16",
+"precision_days": 3,
+"source": "comment"
+},
+"380755": {
+"est": "2015-03-17",
+"precision_days": 3,
+"source": "comment"
+},
+"380771": {
+"est": "2015-03-17",
+"precision_days": 3,
+"source": "comment"
+},
+"383872": {
+"est": "2015-03-20",
+"precision_days": 3,
+"source": "comment"
+},
+"384150": {
+"est": "2015-03-20",
+"precision_days": 3,
+"source": "comment"
+},
+"385780": {
+"est": "2015-03-24",
+"precision_days": 3,
+"source": "comment"
+},
+"394146": {
+"est": "2015-04-02",
+"precision_days": 3,
+"source": "comment"
+},
+"394502": {
+"est": "2015-04-02",
+"precision_days": 3,
+"source": "comment"
+},
+"394694": {
+"est": "2015-04-02",
+"precision_days": 3,
+"source": "comment"
+},
+"396103": {
+"est": "2015-04-05",
+"precision_days": 3,
+"source": "comment"
+},
+"403251": {
+"est": "2015-04-20",
+"precision_days": 365,
+"source": "page"
+},
+"409141": {
+"est": "2015-04-20",
+"precision_days": 365,
+"source": "page"
+},
+"409143": {
+"est": "2015-04-20",
+"precision_days": 365,
+"source": "page"
+},
+"409282": {
+"est": "2015-04-20",
+"precision_days": 3,
+"source": "comment"
+},
+"410464": {
+"est": "2015-04-20",
+"precision_days": 3,
+"source": "comment"
+},
+"410702": {
+"est": "2015-04-22",
+"precision_days": 3,
+"source": "comment"
+},
+"410703": {
+"est": "2015-04-23",
+"precision_days": 3,
+"source": "comment"
+},
+"418087": {
+"est": "2015-04-29",
+"precision_days": 3,
+"source": "comment"
+},
+"418995": {
+"est": "2015-05-02",
+"precision_days": 3,
+"source": "comment"
+},
+"419906": {
+"est": "2015-05-02",
+"precision_days": 3,
+"source": "comment"
+},
+"423116": {
+"est": "2015-05-13",
+"precision_days": 3,
+"source": "comment"
+},
+"423643": {
+"est": "2015-05-13",
+"precision_days": 365,
+"source": "page"
+},
+"425791": {
+"est": "2015-05-13",
+"precision_days": 365,
+"source": "page"
+},
+"426533": {
+"est": "2015-05-13",
+"precision_days": 365,
+"source": "page"
+},
+"428737": {
+"est": "2015-05-13",
+"precision_days": 3,
+"source": "comment"
+},
+"430692": {
+"est": "2015-05-20",
+"precision_days": 3,
+"source": "comment"
+},
+"432696": {
+"est": "2015-05-20",
+"precision_days": 3,
+"source": "comment"
+},
+"433102": {
+"est": "2015-05-20",
+"precision_days": 3,
+"source": "comment"
+},
+"436926": {
+"est": "2015-05-23",
+"precision_days": 3,
+"source": "comment"
+},
+"437218": {
+"est": "2015-05-23",
+"precision_days": 3,
+"source": "comment"
+},
+"438572": {
+"est": "2015-05-26",
+"precision_days": 3,
+"source": "comment"
+},
+"446044": {
+"est": "2015-06-02",
+"precision_days": 3,
+"source": "comment"
+},
+"446567": {
+"est": "2015-06-11",
+"precision_days": 365,
+"source": "page"
+},
+"453392": {
+"est": "2015-06-11",
+"precision_days": 3,
+"source": "comment"
+},
+"453957": {
+"est": "2015-06-12",
+"precision_days": 3,
+"source": "comment"
+},
+"454627": {
+"est": "2015-06-15",
+"precision_days": 3,
+"source": "comment"
+},
+"455517": {
+"est": "2015-06-15",
+"precision_days": 3,
+"source": "comment"
+},
+"458561": {
+"est": "2015-06-27",
+"precision_days": 365,
+"source": "page"
+},
+"465090": {
+"est": "2015-06-27",
+"precision_days": 3,
+"source": "comment"
+},
+"471176": {
+"est": "2015-07-06",
+"precision_days": 3,
+"source": "comment"
+},
+"472609": {
+"est": "2015-07-06",
+"precision_days": 365,
+"source": "page"
+},
+"477481": {
+"est": "2015-07-06",
+"precision_days": 365,
+"source": "page"
+},
+"479141": {
+"est": "2015-07-06",
+"precision_days": 3,
+"source": "comment"
+},
+"482926": {
+"est": "2015-07-06",
+"precision_days": 3,
+"source": "comment"
+},
+"484214": {
+"est": "2015-07-06",
+"precision_days": 3,
+"source": "comment"
+},
+"484487": {
+"est": "2015-07-06",
+"precision_days": 3,
+"source": "comment"
+},
+"487097": {
+"est": "2015-07-06",
+"precision_days": 3,
+"source": "comment"
+},
+"495964": {
+"est": "2015-07-06",
+"precision_days": 3,
+"source": "comment"
+},
+"501733": {
+"est": "2015-07-06",
+"precision_days": 365,
+"source": "page"
+},
+"504655": {
+"est": "2015-08-14",
+"precision_days": 3,
+"source": "comment"
+},
+"506405": {
+"est": "2015-08-16",
+"precision_days": 3,
+"source": "comment"
+},
+"507065": {
+"est": "2015-08-17",
+"precision_days": 3,
+"source": "comment"
+},
+"510125": {
+"est": "2015-08-22",
+"precision_days": 3,
+"source": "comment"
+},
+"511737": {
+"est": "2015-08-22",
+"precision_days": 3,
+"source": "comment"
+},
+"513370": {
+"est": "2015-08-25",
+"precision_days": 3,
+"source": "comment"
+},
+"519296": {
+"est": "2015-09-06",
+"precision_days": 3,
+"source": "comment"
+},
+"526143": {
+"est": "2015-09-08",
+"precision_days": 3,
+"source": "comment"
+},
+"534521": {
+"est": "2015-09-16",
+"precision_days": 3,
+"source": "comment"
+},
+"537772": {
+"est": "2015-09-20",
+"precision_days": 3,
+"source": "comment"
+},
+"538407": {
+"est": "2015-09-21",
+"precision_days": 3,
+"source": "comment"
+},
+"540810": {
+"est": "2015-09-26",
+"precision_days": 3,
+"source": "comment"
+},
+"543856": {
+"est": "2015-09-26",
+"precision_days": 3,
+"source": "comment"
+},
+"554770": {
+"est": "2015-10-08",
+"precision_days": 3,
+"source": "comment"
+},
+"555067": {
+"est": "2015-10-08",
+"precision_days": 3,
+"source": "comment"
+},
+"558531": {
+"est": "2015-10-21",
+"precision_days": 3,
+"source": "comment"
+},
+"563159": {
+"est": "2015-10-20",
+"precision_days": 3,
+"source": "comment"
+},
+"563684": {
+"est": "2015-10-21",
+"precision_days": 365,
+"source": "page"
+},
+"564491": {
+"est": "2015-10-21",
+"precision_days": 3,
+"source": "comment"
+},
+"568149": {
+"est": "2015-10-23",
+"precision_days": 365,
+"source": "page"
+},
+"568896": {
+"est": "2015-10-24",
+"precision_days": 365,
+"source": "page"
+},
+"568914": {
+"est": "2015-10-23",
+"precision_days": 3,
+"source": "comment"
+},
+"569284": {
+"est": "2015-10-23",
+"precision_days": 365,
+"source": "page"
+},
+"569814": {
+"est": "2015-10-24",
+"precision_days": 365,
+"source": "page"
+},
+"570215": {
+"est": "2015-10-27",
+"precision_days": 3,
+"source": "comment"
+},
+"570216": {
+"est": "2015-10-24",
+"precision_days": 3,
+"source": "comment"
+},
+"572114": {
+"est": "2015-10-27",
+"precision_days": 365,
+"source": "page"
+},
+"573985": {
+"est": "2015-10-27",
+"precision_days": 3,
+"source": "comment"
+},
+"574342": {
+"est": "2015-11-10",
+"precision_days": 365,
+"source": "page"
+},
+"586651": {
+"est": "2015-11-10",
+"precision_days": 3,
+"source": "comment"
+},
+"587416": {
+"est": "2015-11-10",
+"precision_days": 3,
+"source": "comment"
+},
+"591768": {
+"est": "2015-11-16",
+"precision_days": 3,
+"source": "comment"
+},
+"595506": {
+"est": "2015-11-20",
+"precision_days": 3,
+"source": "comment"
+},
+"595830": {
+"est": "2015-11-20",
+"precision_days": 3,
+"source": "comment"
+},
+"604263": {
+"est": "2015-11-29",
+"precision_days": 3,
+"source": "comment"
+},
+"604313": {
+"est": "2015-12-01",
+"precision_days": 365,
+"source": "page"
+},
+"604772": {
+"est": "2015-12-01",
+"precision_days": 3,
+"source": "comment"
+},
+"606132": {
+"est": "2015-12-02",
+"precision_days": 3,
+"source": "comment"
+},
+"606185": {
+"est": "2015-12-02",
+"precision_days": 3,
+"source": "comment"
+},
+"6076325": {
+"est": "2025-01-27",
+"precision_days": 3,
+"source": "comment"
+},
+"608945": {
+"est": "2015-12-07",
+"precision_days": 3,
+"source": "comment"
+},
+"609210": {
+"est": "2015-12-06",
+"precision_days": 3,
+"source": "comment"
+},
+"609739": {
+"est": "2015-12-07",
+"precision_days": 3,
+"source": "comment"
+},
+"610313": {
+"est": "2015-12-07",
+"precision_days": 3,
+"source": "comment"
+},
+"610803": {
+"est": "2015-12-07",
+"precision_days": 3,
+"source": "comment"
+},
+"614756": {
+"est": "2015-12-12",
+"precision_days": 3,
+"source": "comment"
+},
+"615045": {
+"est": "2015-12-12",
+"precision_days": 3,
+"source": "comment"
+},
+"616946": {
+"est": "2015-12-18",
+"precision_days": 365,
+"source": "page"
+},
+"619558": {
+"est": "2015-12-18",
+"precision_days": 3,
+"source": "comment"
+},
+"620470": {
+"est": "2015-12-19",
+"precision_days": 3,
+"source": "comment"
+},
+"624455": {
+"est": "2015-12-28",
+"precision_days": 3,
+"source": "comment"
+},
+"625040": {
+"est": "2015-12-28",
+"precision_days": 365,
+"source": "page"
+},
+"625591": {
+"est": "2015-12-28",
+"precision_days": 3,
+"source": "comment"
+},
+"627741": {
+"est": "2015-12-31",
+"precision_days": 365,
+"source": "page"
+},
+"627933": {
+"est": "2015-12-31",
+"precision_days": 3,
+"source": "comment"
+},
+"631296": {
+"est": "2016-01-04",
+"precision_days": 3,
+"source": "comment"
+},
+"637402": {
+"est": "2016-01-11",
+"precision_days": 3,
+"source": "comment"
+},
+"6379126": {
+"est": "2025-02-05",
+"precision_days": 365,
+"source": "page"
+},
+"638109": {
+"est": "2016-01-11",
+"precision_days": 3,
+"source": "comment"
+},
+"639064": {
+"est": "2016-01-16",
+"precision_days": 365,
+"source": "page"
+},
+"642550": {
+"est": "2016-01-16",
+"precision_days": 365,
+"source": "page"
+},
+"642898": {
+"est": "2016-01-16",
+"precision_days": 3,
+"source": "comment"
+},
+"643096": {
+"est": "2016-01-16",
+"precision_days": 3,
+"source": "comment"
+},
+"643446": {
+"est": "2016-01-16",
+"precision_days": 365,
+"source": "page"
+},
+"643621": {
+"est": "2016-01-16",
+"precision_days": 3,
+"source": "comment"
+},
+"643719": {
+"est": "2016-01-17",
+"precision_days": 3,
+"source": "comment"
+},
+"6441757": {
+"est": "2025-02-05",
+"precision_days": 3,
+"source": "comment"
+},
+"644177": {
+"est": "2016-01-17",
+"precision_days": 365,
+"source": "page"
+},
+"644373": {
+"est": "2016-01-17",
+"precision_days": 365,
+"source": "page"
+},
+"644544": {
+"est": "2016-01-17",
+"precision_days": 3,
+"source": "comment"
+},
+"647078": {
+"est": "2016-01-22",
+"precision_days": 365,
+"source": "page"
+},
+"647905": {
+"est": "2016-01-22",
+"precision_days": 365,
+"source": "page"
+},
+"647995": {
+"est": "2016-01-22",
+"precision_days": 365,
+"source": "page"
+},
+"649149": {
+"est": "2016-01-22",
+"precision_days": 3,
+"source": "comment"
+},
+"649654": {
+"est": "2016-01-22",
+"precision_days": 3,
+"source": "comment"
+},
+"649876": {
+"est": "2016-01-24",
+"precision_days": 3,
+"source": "comment"
+},
+"650750": {
+"est": "2016-01-24",
+"precision_days": 3,
+"source": "comment"
+},
+"653392": {
+"est": "2016-01-27",
+"precision_days": 3,
+"source": "comment"
+},
+"654054": {
+"est": "2016-01-27",
+"precision_days": 3,
+"source": "comment"
+},
+"654186": {
+"est": "2016-01-31",
+"precision_days": 3,
+"source": "comment"
+},
+"655239": {
+"est": "2016-02-02",
+"precision_days": 365,
+"source": "page"
+},
+"657453": {
+"est": "2016-02-02",
+"precision_days": 3,
+"source": "comment"
+},
+"658260": {
+"est": "2016-02-02",
+"precision_days": 365,
+"source": "page"
+},
+"659310": {
+"est": "2016-02-02",
+"precision_days": 3,
+"source": "comment"
+},
+"660304": {
+"est": "2016-02-03",
+"precision_days": 3,
+"source": "comment"
+},
+"660402": {
+"est": "2016-02-03",
+"precision_days": 365,
+"source": "page"
+},
+"660972": {
+"est": "2016-02-03",
+"precision_days": 3,
+"source": "comment"
+},
+"662133": {
+"est": "2016-02-09",
+"precision_days": 365,
+"source": "page"
+},
+"662976": {
+"est": "2016-02-09",
+"precision_days": 3,
+"source": "comment"
+},
+"664503": {
+"est": "2016-02-09",
+"precision_days": 3,
+"source": "comment"
+},
+"666081": {
+"est": "2016-02-09",
+"precision_days": 3,
+"source": "comment"
+},
+"667779": {
+"est": "2016-02-12",
+"precision_days": 365,
+"source": "page"
+},
+"669429": {
+"est": "2016-02-12",
+"precision_days": 3,
+"source": "comment"
+},
+"672239": {
+"est": "2016-02-24",
+"precision_days": 365,
+"source": "page"
+},
+"675725": {
+"est": "2016-02-24",
+"precision_days": 3,
+"source": "comment"
+},
+"676660": {
+"est": "2016-02-25",
+"precision_days": 3,
+"source": "comment"
+},
+"680803": {
+"est": "2016-02-25",
+"precision_days": 3,
+"source": "comment"
+},
+"681573": {
+"est": "2016-02-25",
+"precision_days": 3,
+"source": "comment"
+},
+"684082": {
+"est": "2016-03-01",
+"precision_days": 3,
+"source": "comment"
+},
+"684253": {
+"est": "2016-03-01",
+"precision_days": 365,
+"source": "page"
+},
+"685719": {
+"est": "2016-03-01",
+"precision_days": 3,
+"source": "comment"
+},
+"688130": {
+"est": "2016-03-15",
+"precision_days": 365,
+"source": "page"
+},
+"688566": {
+"est": "2016-03-15",
+"precision_days": 365,
+"source": "page"
+},
+"695714": {
+"est": "2016-03-15",
+"precision_days": 365,
+"source": "page"
+},
+"697049": {
+"est": "2016-03-15",
+"precision_days": 365,
+"source": "page"
+},
+"700019": {
+"est": "2016-03-15",
+"precision_days": 3,
+"source": "comment"
+},
+"700031": {
+"est": "2016-03-15",
+"precision_days": 3,
+"source": "comment"
+},
+"706786": {
+"est": "2016-03-23",
+"precision_days": 3,
+"source": "comment"
+},
+"708940": {
+"est": "2016-03-26",
+"precision_days": 3,
+"source": "comment"
+},
+"709711": {
+"est": "2016-03-29",
+"precision_days": 365,
+"source": "page"
+},
+"711318": {
+"est": "2016-03-29",
+"precision_days": 3,
+"source": "comment"
+},
+"714171": {
+"est": "2016-03-31",
+"precision_days": 3,
+"source": "comment"
+},
+"714820": {
+"est": "2016-04-07",
+"precision_days": 365,
+"source": "page"
+},
+"717161": {
+"est": "2016-04-07",
+"precision_days": 3,
+"source": "comment"
+},
+"7202416": {
+"est": "2025-02-28",
+"precision_days": 365,
+"source": "page"
+},
+"7202473": {
+"est": "2025-02-28",
+"precision_days": 365,
+"source": "page"
+},
+"726318": {
+"est": "2016-04-15",
+"precision_days": 365,
+"source": "page"
+},
+"728364": {
+"est": "2016-04-15",
+"precision_days": 3,
+"source": "comment"
+},
+"729536": {
+"est": "2016-04-16",
+"precision_days": 3,
+"source": "comment"
+},
+"733717": {
+"est": "2016-04-20",
+"precision_days": 3,
+"source": "comment"
+},
+"733934": {
+"est": "2016-04-21",
+"precision_days": 3,
+"source": "comment"
+},
+"736827": {
+"est": "2016-04-24",
+"precision_days": 3,
+"source": "comment"
+},
+"738167": {
+"est": "2016-05-01",
+"precision_days": 3,
+"source": "comment"
+},
+"738364": {
+"est": "2016-05-04",
+"precision_days": 365,
+"source": "page"
+},
+"739486": {
+"est": "2016-05-04",
+"precision_days": 365,
+"source": "page"
+},
+"746647": {
+"est": "2016-05-04",
+"precision_days": 3,
+"source": "comment"
+},
+"748294": {
+"est": "2016-05-10",
+"precision_days": 3,
+"source": "comment"
+},
+"748647": {
+"est": "2016-05-10",
+"precision_days": 3,
+"source": "comment"
+},
+"748700": {
+"est": "2016-05-10",
+"precision_days": 365,
+"source": "page"
+},
+"751527": {
+"est": "2016-05-12",
+"precision_days": 3,
+"source": "comment"
+},
+"755003": {
+"est": "2016-05-25",
+"precision_days": 365,
+"source": "page"
+},
+"761326": {
+"est": "2016-05-25",
+"precision_days": 3,
+"source": "comment"
+},
+"763495": {
+"est": "2016-05-28",
+"precision_days": 365,
+"source": "page"
+},
+"766079": {
+"est": "2016-05-28",
+"precision_days": 365,
+"source": "page"
+},
+"768513": {
+"est": "2016-05-28",
+"precision_days": 3,
+"source": "comment"
+},
+"771871": {
+"est": "2016-06-02",
+"precision_days": 3,
+"source": "comment"
+},
+"772191": {
+"est": "2016-06-02",
+"precision_days": 3,
+"source": "comment"
+},
+"775271": {
+"est": "2016-06-04",
+"precision_days": 3,
+"source": "comment"
+},
+"778005": {
+"est": "2016-06-08",
+"precision_days": 3,
+"source": "comment"
+},
+"785968": {
+"est": "2016-06-16",
+"precision_days": 3,
+"source": "comment"
+},
+"790482": {
+"est": "2016-06-26",
+"precision_days": 365,
+"source": "page"
+},
+"793235": {
+"est": "2016-06-26",
+"precision_days": 3,
+"source": "comment"
+},
+"794113": {
+"est": "2016-07-01",
+"precision_days": 3,
+"source": "comment"
+},
+"798512": {
+"est": "2016-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"802524": {
+"est": "2016-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"803833": {
+"est": "2016-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"805859": {
+"est": "2016-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"808008": {
+"est": "2016-07-05",
+"precision_days": 365,
+"source": "page"
+},
+"808376": {
+"est": "2016-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"810807": {
+"est": "2016-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"811938": {
+"est": "2016-07-05",
+"precision_days": 365,
+"source": "page"
+},
+"814108": {
+"est": "2016-07-05",
+"precision_days": 365,
+"source": "page"
+},
+"814921": {
+"est": "2016-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"815638": {
+"est": "2016-07-05",
+"precision_days": 365,
+"source": "page"
+},
+"815958": {
+"est": "2016-07-05",
+"precision_days": 3,
+"source": "comment"
+},
+"816445": {
+"est": "2016-07-05",
+"precision_days": 365,
+"source": "page"
+},
+"818331": {
+"est": "2016-07-26",
+"precision_days": 3,
+"source": "comment"
+},
+"826378": {
+"est": "2016-08-09",
+"precision_days": 3,
+"source": "comment"
+},
+"837647": {
+"est": "2016-08-21",
+"precision_days": 3,
+"source": "comment"
+},
+"839239": {
+"est": "2016-08-21",
+"precision_days": 3,
+"source": "comment"
+},
+"845440": {
+"est": "2016-08-31",
+"precision_days": 3,
+"source": "comment"
+},
+"847086": {
+"est": "2016-09-11",
+"precision_days": 365,
+"source": "page"
+},
+"847846": {
+"est": "2016-09-11",
+"precision_days": 365,
+"source": "page"
+},
+"847874": {
+"est": "2016-09-11",
+"precision_days": 365,
+"source": "page"
+},
+"850082": {
+"est": "2016-09-11",
+"precision_days": 3,
+"source": "comment"
+},
+"853201": {
+"est": "2016-09-11",
+"precision_days": 3,
+"source": "comment"
+},
+"854675": {
+"est": "2016-09-11",
+"precision_days": 3,
+"source": "comment"
+},
+"855567": {
+"est": "2016-09-14",
+"precision_days": 365,
+"source": "page"
+},
+"856982": {
+"est": "2016-09-14",
+"precision_days": 3,
+"source": "comment"
+},
+"857025": {
+"est": "2016-09-14",
+"precision_days": 3,
+"source": "comment"
+},
+"858104": {
+"est": "2016-09-16",
+"precision_days": 3,
+"source": "comment"
+},
+"8602470": {
+"est": "2025-02-28",
+"precision_days": 365,
+"source": "page"
+},
+"860275": {
+"est": "2016-09-19",
+"precision_days": 3,
+"source": "comment"
+},
+"860600": {
+"est": "2016-09-25",
+"precision_days": 3,
+"source": "comment"
+},
+"866908": {
+"est": "2016-09-26",
+"precision_days": 3,
+"source": "comment"
+},
+"871132": {
+"est": "2016-10-02",
+"precision_days": 365,
+"source": "page"
+},
+"873448": {
+"est": "2016-10-02",
+"precision_days": 3,
+"source": "comment"
+},
+"875420": {
+"est": "2016-10-04",
+"precision_days": 3,
+"source": "comment"
+},
+"876055": {
+"est": "2016-10-04",
+"precision_days": 3,
+"source": "comment"
+},
+"876056": {
+"est": "2016-10-08",
+"precision_days": 3,
+"source": "comment"
+},
+"878100": {
+"est": "2016-10-15",
+"precision_days": 365,
+"source": "page"
+},
+"878178": {
+"est": "2016-10-15",
+"precision_days": 365,
+"source": "page"
+},
+"879444": {
+"est": "2016-10-15",
+"precision_days": 3,
+"source": "comment"
+},
+"882061": {
+"est": "2016-10-19",
+"precision_days": 365,
+"source": "page"
+},
+"882062": {
+"est": "2016-10-19",
+"precision_days": 3,
+"source": "comment"
+},
+"882063": {
+"est": "2016-10-18",
+"precision_days": 3,
+"source": "comment"
+},
+"882858": {
+"est": "2016-10-19",
+"precision_days": 365,
+"source": "page"
+},
+"883220": {
+"est": "2016-10-19",
+"precision_days": 365,
+"source": "page"
+},
+"888438": {
+"est": "2016-10-19",
+"precision_days": 3,
+"source": "comment"
+},
+"889751": {
+"est": "2016-10-30",
+"precision_days": 365,
+"source": "page"
+},
+"891297": {
+"est": "2016-10-30",
+"precision_days": 3,
+"source": "comment"
+},
+"891632": {
+"est": "2016-10-30",
+"precision_days": 3,
+"source": "comment"
+},
+"897204": {
+"est": "2016-10-30",
+"precision_days": 3,
+"source": "comment"
+},
+"897255": {
+"est": "2016-10-30",
+"precision_days": 365,
+"source": "page"
+},
+"897256": {
+"est": "2016-10-30",
+"precision_days": 3,
+"source": "comment"
+},
+"897257": {
+"est": "2016-10-30",
+"precision_days": 3,
+"source": "comment"
+},
+"897258": {
+"est": "2016-10-30",
+"precision_days": 365,
+"source": "page"
+},
+"897259": {
+"est": "2016-10-30",
+"precision_days": 365,
+"source": "page"
+},
+"897261": {
+"est": "2016-10-30",
+"precision_days": 365,
+"source": "page"
+},
+"897263": {
+"est": "2016-10-30",
+"precision_days": 3,
+"source": "comment"
+},
+"897265": {
+"est": "2016-10-30",
+"precision_days": 3,
+"source": "comment"
+},
+"897266": {
+"est": "2016-10-30",
+"precision_days": 3,
+"source": "comment"
+},
+"897267": {
+"est": "2016-11-05",
+"precision_days": 365,
+"source": "page"
+},
+"898418": {
+"est": "2016-11-05",
+"precision_days": 365,
+"source": "page"
+},
+"902522": {
+"est": "2016-11-05",
+"precision_days": 3,
+"source": "comment"
+},
+"902667": {
+"est": "2016-11-05",
+"precision_days": 3,
+"source": "comment"
+},
+"902935": {
+"est": "2016-11-05",
+"precision_days": 3,
+"source": "comment"
+},
+"903488": {
+"est": "2016-11-07",
+"precision_days": 3,
+"source": "comment"
+},
+"903787": {
+"est": "2016-11-09",
+"precision_days": 365,
+"source": "page"
+},
+"905212": {
+"est": "2016-11-09",
+"precision_days": 3,
+"source": "comment"
+},
+"908933": {
+"est": "2016-11-16",
+"precision_days": 365,
+"source": "page"
+},
+"910621": {
+"est": "2016-11-16",
+"precision_days": 3,
+"source": "comment"
+},
+"912520": {
+"est": "2016-11-19",
+"precision_days": 3,
+"source": "comment"
+},
+"912876": {
+"est": "2016-11-19",
+"precision_days": 3,
+"source": "comment"
+},
+"914888": {
+"est": "2016-11-21",
+"precision_days": 3,
+"source": "comment"
+},
+"916808": {
+"est": "2016-11-22",
+"precision_days": 3,
+"source": "comment"
+},
+"917373": {
+"est": "2016-11-26",
+"precision_days": 3,
+"source": "comment"
+},
+"918300": {
+"est": "2016-11-26",
+"precision_days": 3,
+"source": "comment"
+},
+"918512": {
+"est": "2016-11-28",
+"precision_days": 365,
+"source": "page"
+},
+"921036": {
+"est": "2016-11-28",
+"precision_days": 3,
+"source": "comment"
+},
+"921469": {
+"est": "2016-11-29",
+"precision_days": 3,
+"source": "comment"
+},
+"923934": {
+"est": "2016-12-03",
+"precision_days": 3,
+"source": "comment"
+},
+"925757": {
+"est": "2016-12-05",
+"precision_days": 3,
+"source": "comment"
+},
+"926034": {
+"est": "2016-12-05",
+"precision_days": 3,
+"source": "comment"
+},
+"928797": {
+"est": "2016-12-15",
+"precision_days": 365,
+"source": "page"
+},
+"933216": {
+"est": "2016-12-15",
+"precision_days": 3,
+"source": "comment"
+},
+"933346": {
+"est": "2016-12-15",
+"precision_days": 3,
+"source": "comment"
+},
+"934850": {
+"est": "2016-12-18",
+"precision_days": 3,
+"source": "comment"
+},
+"937193": {
+"est": "2016-12-22",
+"precision_days": 3,
+"source": "comment"
+},
+"939080": {
+"est": "2016-12-25",
+"precision_days": 3,
+"source": "comment"
+},
+"939084": {
+"est": "2017-01-07",
+"precision_days": 365,
+"source": "page"
+},
+"939126": {
+"est": "2017-01-07",
+"precision_days": 365,
+"source": "page"
+},
+"940679": {
+"est": "2017-01-07",
+"precision_days": 3,
+"source": "comment"
+},
+"941906": {
+"est": "2017-01-07",
+"precision_days": 3,
+"source": "comment"
+},
+"942415": {
+"est": "2017-01-09",
+"precision_days": 365,
+"source": "page"
+},
+"942537": {
+"est": "2017-01-09",
+"precision_days": 3,
+"source": "comment"
+},
+"944427": {
+"est": "2017-01-09",
+"precision_days": 3,
+"source": "comment"
+},
+"945814": {
+"est": "2017-01-17",
+"precision_days": 365,
+"source": "page"
+},
+"947213": {
+"est": "2017-01-17",
+"precision_days": 365,
+"source": "page"
+},
+"947962": {
+"est": "2017-01-17",
+"precision_days": 365,
+"source": "page"
+},
+"950205": {
+"est": "2017-01-17",
+"precision_days": 3,
+"source": "comment"
+},
+"953135": {
+"est": "2017-01-22",
+"precision_days": 365,
+"source": "page"
+},
+"960416": {
+"est": "2017-01-22",
+"precision_days": 3,
+"source": "comment"
+},
+"960417": {
+"est": "2017-01-22",
+"precision_days": 3,
+"source": "comment"
+},
+"961181": {
+"est": "2017-01-22",
+"precision_days": 3,
+"source": "comment"
+},
+"963162": {
+"est": "2017-02-01",
+"precision_days": 3,
+"source": "comment"
+},
+"968549": {
+"est": "2017-02-01",
+"precision_days": 365,
+"source": "page"
+},
+"968894": {
+"est": "2017-02-01",
+"precision_days": 3,
+"source": "comment"
+},
+"969455": {
+"est": "2017-02-01",
+"precision_days": 3,
+"source": "comment"
+},
+"970219": {
+"est": "2017-02-03",
+"precision_days": 3,
+"source": "comment"
+},
+"970343": {
+"est": "2017-02-10",
+"precision_days": 365,
+"source": "page"
+},
+"973531": {
+"est": "2017-02-10",
+"precision_days": 3,
+"source": "comment"
+},
+"984622": {
+"est": "2017-02-10",
+"precision_days": 3,
+"source": "comment"
+},
+"985045": {
+"est": "2017-02-15",
+"precision_days": 3,
+"source": "comment"
+},
+"985702": {
+"est": "2017-02-20",
+"precision_days": 365,
+"source": "page"
+},
+"989988": {
+"est": "2017-02-20",
+"precision_days": 3,
+"source": "comment"
+},
+"989992": {
+"est": "2017-02-22",
+"precision_days": 3,
+"source": "comment"
+},
+"990666": {
+"est": "2017-02-22",
+"precision_days": 365,
+"source": "page"
+},
+"991400": {
+"est": "2017-02-22",
+"precision_days": 365,
+"source": "page"
+},
+"991442": {
+"est": "2017-02-22",
+"precision_days": 3,
+"source": "comment"
+},
+"991486": {
+"est": "2017-02-22",
+"precision_days": 365,
+"source": "page"
+},
+"993080": {
+"est": "2017-02-23",
+"precision_days": 3,
+"source": "comment"
+},
+"995881": {
+"est": "2017-02-23",
+"precision_days": 3,
+"source": "comment"
+},
+"996949": {
+"est": "2017-02-23",
+"precision_days": 365,
+"source": "page"
+},
+"996962": {
+"est": "2017-02-23",
+"precision_days": 3,
+"source": "comment"
+},
+"998193": {
+"est": "2017-02-23",
+"precision_days": 3,
+"source": "comment"
+}
+}

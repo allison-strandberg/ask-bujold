@@ -1,0 +1,294 @@
+[
+ {
+  "name": "The Vorkosigan Saga",
+  "group": "vorkosigan"
+ },
+ {
+  "name": "Shards of Honor",
+  "group": "vorkosigan"
+ },
+ {
+  "name": "The Warrior's Apprentice",
+  "group": "vorkosigan"
+ },
+ {
+  "name": "The Vor Game",
+  "group": "vorkosigan"
+ },
+ {
+  "name": "Ethan of Athos",
+  "group": "vorkosigan"
+ },
+ {
+  "name": "Borders of Infinity",
+  "group": "vorkosigan"
+ },
+ {
+  "name": "Brothers in Arms",
+  "group": "vorkosigan"
+ },
+ {
+  "name": "Mirror Dance",
+  "group": "vorkosigan"
+ },
+ {
+  "name": "Komarr",
+  "group": "vorkosigan"
+ },
+ {
+  "name": "A Civil Campaign",
+  "group": "vorkosigan"
+ },
+ {
+  "name": "Diplomatic Immunity",
+  "group": "vorkosigan"
+ },
+ {
+  "name": "Winterfair Gifts",
+  "group": "vorkosigan"
+ },
+ {
+  "name": "Captain Vorpatril's Alliance",
+  "group": "vorkosigan"
+ },
+ {
+  "name": "Cryoburn",
+  "group": "vorkosigan"
+ },
+ {
+  "name": "Gentleman Jole and the Red Queen",
+  "group": "vorkosigan"
+ },
+ {
+  "name": "Falling Free",
+  "group": "vorkosigan"
+ },
+ {
+  "name": "Miles Vorkosigan",
+  "group": "vorkosigan"
+ },
+ {
+  "name": "Cordelia",
+  "group": "vorkosigan"
+ },
+ {
+  "name": "Aral Vorkosigan",
+  "group": "vorkosigan"
+ },
+ {
+  "name": "Ivan Vorpatril",
+  "group": "vorkosigan"
+ },
+ {
+  "name": "Mark Vorkosigan",
+  "group": "vorkosigan"
+ },
+ {
+  "name": "Emperor Gregor",
+  "group": "vorkosigan"
+ },
+ {
+  "name": "Ekaterin",
+  "group": "vorkosigan"
+ },
+ {
+  "name": "Simon Illyan",
+  "group": "vorkosigan"
+ },
+ {
+  "name": "Miles & Ekaterin's kids",
+  "group": "vorkosigan"
+ },
+ {
+  "name": "Uterine replicators",
+  "group": "vorkosigan"
+ },
+ {
+  "name": "Butter bugs",
+  "group": "vorkosigan"
+ },
+ {
+  "name": "Quaddies",
+  "group": "vorkosigan"
+ },
+ {
+  "name": "The haut",
+  "group": "vorkosigan"
+ },
+ {
+  "name": "Time of Isolation",
+  "group": "vorkosigan"
+ },
+ {
+  "name": "ImpSec",
+  "group": "vorkosigan"
+ },
+ {
+  "name": "World of the Five Gods",
+  "group": "fivegods"
+ },
+ {
+  "name": "The Curse of Chalion",
+  "group": "fivegods"
+ },
+ {
+  "name": "Paladin of Souls",
+  "group": "fivegods"
+ },
+ {
+  "name": "The Hallowed Hunt",
+  "group": "fivegods"
+ },
+ {
+  "name": "Penric & Desdemona",
+  "group": "fivegods"
+ },
+ {
+  "name": "Penric's Demon",
+  "group": "fivegods"
+ },
+ {
+  "name": "Penric and the Shaman",
+  "group": "fivegods"
+ },
+ {
+  "name": "Penric's Fox",
+  "group": "fivegods"
+ },
+ {
+  "name": "Penric's Mission",
+  "group": "fivegods"
+ },
+ {
+  "name": "Mira's Last Dance",
+  "group": "fivegods"
+ },
+ {
+  "name": "The Prisoner of Limnos",
+  "group": "fivegods"
+ },
+ {
+  "name": "The Orphans of Raspay",
+  "group": "fivegods"
+ },
+ {
+  "name": "The Physicians of Vilnoc",
+  "group": "fivegods"
+ },
+ {
+  "name": "Masquerade in Lodi",
+  "group": "fivegods"
+ },
+ {
+  "name": "The Assassins of Thasalon",
+  "group": "fivegods"
+ },
+ {
+  "name": "Knot of Shadows",
+  "group": "fivegods"
+ },
+ {
+  "name": "Demon Daughter",
+  "group": "fivegods"
+ },
+ {
+  "name": "Penric and the Bandit",
+  "group": "fivegods"
+ },
+ {
+  "name": "The Demonic Ox",
+  "group": "fivegods"
+ },
+ {
+  "name": "Darksight",
+  "group": "fivegods"
+ },
+ {
+  "name": "Demons & sorcerers",
+  "group": "fivegods"
+ },
+ {
+  "name": "Saints & the gods",
+  "group": "fivegods"
+ },
+ {
+  "name": "Shamans & Great Beasts",
+  "group": "fivegods"
+ },
+ {
+  "name": "The Sharing Knife",
+  "group": "sharingknife"
+ },
+ {
+  "name": "Beguilement",
+  "group": "sharingknife"
+ },
+ {
+  "name": "Knife Children",
+  "group": "sharingknife"
+ },
+ {
+  "name": "The Spirit Ring",
+  "group": "other"
+ },
+ {
+  "name": "Writing process",
+  "group": "topic"
+ },
+ {
+  "name": "Publishing",
+  "group": "topic"
+ },
+ {
+  "name": "Adaptations",
+  "group": "topic"
+ },
+ {
+  "name": "Future books",
+  "group": "topic"
+ },
+ {
+  "name": "Reading & influences",
+  "group": "topic"
+ },
+ {
+  "name": "Audiobooks & narrators",
+  "group": "topic"
+ },
+ {
+  "name": "Pronunciation",
+  "group": "topic"
+ },
+ {
+  "name": "Fanfiction",
+  "group": "topic"
+ },
+ {
+  "name": "Hugo & awards",
+  "group": "topic"
+ },
+ {
+  "name": "Translations",
+  "group": "topic"
+ },
+ {
+  "name": "Conventions & signings",
+  "group": "topic"
+ },
+ {
+  "name": "Maps",
+  "group": "topic"
+ },
+ {
+  "name": "Names & naming",
+  "group": "topic"
+ },
+ {
+  "name": "Horses",
+  "group": "topic"
+ },
+ {
+  "name": "Cats",
+  "group": "topic"
+ }
+]
