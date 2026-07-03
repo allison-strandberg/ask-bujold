@@ -232,7 +232,6 @@ mark {
   color: var(--ink-soft);
 }
 .card .foot .likes { color: var(--son); font-weight: 600; }
-.card .foot .answered { cursor: help; }
 .comments-toggle {
   font-size: 0.8rem;
   padding: 2px 8px;
