@@ -339,8 +339,8 @@ function render(append = false) {
     }
     results.appendChild(card(q));
   }
-  $("#more").hidden = list.length <= state.shown;
   const remaining = list.length - state.shown;
+  $("#more").hidden = remaining <= 0;
   if (remaining > 0) $("#more").textContent = `Show more (${remaining.toLocaleString("en-US")} remaining)`;
 }
 

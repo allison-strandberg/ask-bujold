@@ -269,6 +269,7 @@ mark {
   color: var(--brown);
   cursor: pointer;
 }
+.more-btn[hidden] { display: none; }
 .more-btn:hover { background: var(--brown); color: #fff; }
 
 .site-footer {
