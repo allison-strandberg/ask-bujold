@@ -7,9 +7,10 @@
 <meta name="description" content="A searchable archive of Lois McMaster Bujold's Goodreads Ask the Author answers.">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🍁</text></svg>">
 <link rel="stylesheet" href="assets/style.css">
-<script src="https://cdn.jsdelivr.net/npm/minisearch@7.1.2/dist/umd/index.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/minisearch@7.1.2/dist/umd/index.min.js"></script>
+<script defer src="assets/app.js"></script>
 </head>
-<body>
+<body class="loading">
 
 <header class="site-header">
   <div class="wrap">
@@ -35,13 +36,13 @@
   </div>
 
   <div class="filter-row">
-    <button id="tag-toggle" class="tag-toggle" hidden>Filter by tag ▾</button>
+    <button id="tag-toggle" class="tag-toggle" hidden>Filter by tag (tags contain spoilers!) ▸</button>
   </div>
   <div id="tag-panel" class="tag-panel" hidden>
     <div id="tag-groups"></div>
   </div>
 
-  <p id="result-count" class="result-count"></p>
+  <p id="result-count" class="result-count">Loading archive…</p>
   <div id="results"></div>
   <button id="more" class="more-btn" hidden>Show more</button>
 </main>
@@ -53,6 +54,5 @@
   </div>
 </footer>
 
-<script src="assets/app.js"></script>
 </body>
 </html>

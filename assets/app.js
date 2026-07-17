@@ -190,6 +190,7 @@ async function init() {
   window.addEventListener("hashchange", openFromHash);
 
   render();
+  document.body.classList.remove("loading");
   openFromHash();
 }
 

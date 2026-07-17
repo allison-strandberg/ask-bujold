@@ -19,6 +19,8 @@
 }
 
 * { box-sizing: border-box; }
+/* Keep centered content from shifting when the scrollbar appears after results load. */
+html { scrollbar-gutter: stable; }
 body {
   margin: 0;
   background: var(--paper);
@@ -45,7 +47,7 @@ a { color: var(--daughter); }
 }
 .site-header .tagline { margin: 0 0 4px; font-size: 0.95rem; color: var(--silver); }
 .site-header .tagline a { color: #d8c9a8; }
-.site-header .meta { margin: 0; font-size: 0.8rem; color: #9d8f7d; }
+.site-header .meta { margin: 0; font-size: 0.8rem; color: #9d8f7d; min-height: 1.55em; }
 .gods-stripe {
   height: 5px;
   margin-top: 20px;
@@ -81,6 +83,9 @@ a { color: var(--daughter); }
 
 /* Tag filter disclosure */
 .filter-row { margin: 4px 0; }
+/* While data is loading the toggle is hidden but keeps its footprint,
+   so the filter row doesn't grow when it appears. */
+.tag-toggle[hidden] { display: inline-block; visibility: hidden; }
 .tag-toggle {
   font-size: 0.82rem;
   padding: 5px 12px;
@@ -132,7 +137,11 @@ a { color: var(--daughter); }
 .chip.g-other.active { background: var(--son); }
 
 /* Results */
-.result-count { font-size: 0.85rem; color: var(--ink-soft); margin: 14px 2px 10px; }
+.result-count { font-size: 0.85rem; color: var(--ink-soft); margin: 14px 2px 10px; min-height: 1.55em; }
+
+/* Hold space for results while data loads so the footer doesn't
+   flash near the top of the page and then jump down. */
+body.loading #results { min-height: 60vh; }
 .card {
   background: var(--card);
   border: 1px solid var(--silver-soft);
